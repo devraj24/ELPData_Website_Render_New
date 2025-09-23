@@ -1,0 +1,173 @@
+Data Warehouse
+A Data Warehouse is a central repository of historic and current data from one or more disparate sources. It is used for reporting and data analysis, and is considered a core component of a Business Intelligence environment.
+# Products
+163
+# Vendors
+80
+# Companies
+719.8K
+# Records
+1.6M
+1010data
+Actian (Unspecified Product)
+Actian Avalanche
+Adobe Analytics
+Alteryx (Unspecified Product)
+Amazon Redshift
+Amazon Redshift Spectrum
+Apache AsterixDB
+Apache Doris
+Apache Drill
+Apache Hive
+Apache Kylin
+Apache Pinot
+ASG becubic
+Azure Event Hubs
+Azure SQL Data Warehouse
+Azure Synapse
+Azure Synapse Analytics
+Base SAS
+Broadcom View
+Broadridge
+CA Repository
+CA VISION:Builder
+CACI InView
+CGI MView
+ChaosSearch
+CIMS Light Cloud
+Cinchy
+Cloudera (Unspecified Product)
+Cloudera CDH
+Cloudera Enterprise BDR
+Cloudera Impala
+Cloudera Manager
+Cloudera Navigator
+Cubeware
+Dashboard Advantage
+Databricks (Unspecified Product)
+Databricks Lakehouse Platform
+Databricks SQL
+DATOMETRY
+dbt
+Delta Lake
+Domino Data Science Platform
+Dremio
+Dundas BI
+Epic Caboodle
+Epic Clarity
+eReportal
+Every Angle
+Exasol
+Fivetran (Unspecified Product)
+Fivetran Data Movement
+Fivetran Transformations
+Fujitsu Symfoware
+GoodData
+Google Cloud BigQuery
+Google Cloud Looker for BI
+GPI EUSIS
+Health Catalyst
+Hologres
+Hortonworks
+HyperIntelligence
+IBM Cognos Impromptu
+IBM Cognos Insight
+IBM Cognos Planning Contributor
+IBM Cognos Series 7
+IBM Data Management
+IBM Data Warehouse
+IBM Db2
+IBM Db2 Big SQL
+IBM Db2 Warehouse
+IBM InfoSphere BigInsights
+IBM InfoSphere Warehouse
+IBM Integrated Analytics System
+IBM Netezza
+IBM PureData System
+IBM Red Brick
+IBM Smart Analytics System
+IBM WebSphere Message Broker
+Infobright DB
+Informatica Data Integration
+Informatica Data Services
+Informatica Data Warehouse Advisor
+Informatica PowerCenter
+Kalido DIW
+Kleinschmidt (Unspecified Product)
+Kognitio
+Kyndryl (Unspecified Product)
+MapR
+MarkLogic
+Matillion (Unspecified Product)
+Matillion ETL
+Microsoft Analytics Platform System
+Microsoft Data Platform
+Microsoft Power BI
+Microsoft SQL Server 2014
+Microsoft SQL Server Business Intelligence
+MongoDB
+NetApp SyncMirror
+NuGenesis SDMS
+Numetric
+Objectivity
+Omni-Gen
+OneTick
+Oracle Advanced Security
+Oracle Autonomous Data Warehouse
+Oracle Business Analytics
+Oracle Business Intelligence Discoverer
+Oracle Data Warehousing
+Oracle Endeca
+Oracle Enterprise Data Management
+Oracle Enterprise Performance Reporting Cloud
+OSISoft
+Panoply
+ParAccel
+Paxata
+Phocas
+Pivotal HDB
+Presto
+PrestoDB
+Pyramid Analytics
+Qlik Analytics Platform
+QlikView
+QueBIT FrameWORQ
+RainStor
+ReportsNow
+Rubrik
+SAP Business Warehouse (BW)
+SAP BusinessObjects Business Intelligence
+SAP BW/4HANA
+SAP Crystal Reports
+SAP Data Warehousing
+SAP HANA
+SAP HANA One
+SAP IQ
+SenSage AP
+SiSense
+Snowflake Data Warehouse
+SRS ReportSmith
+State Street Alpha
+State Street truView
+StreamBase
+StreamSets
+Tableau Embedded Analytics
+Tableau Prep Builder
+Talend Data Integration
+Teradata (Unspecified Product)
+Teradata Aster
+Teradata Business Continuity Manager
+Teradata Data Warehouse Appliance
+Teradata Dual Active
+Teradata Integrated Data Warehouses
+Teradata Intelliflex
+Teradata Vantage Advanced SQL Engine
+Teradata Vantage on VMware
+ThoughtSpot
+TIBCO Spotfire
+Tick Stack
+Upsolver
+Verdiem
+Vertica
+Yellowbrick Data
+Yellowfin

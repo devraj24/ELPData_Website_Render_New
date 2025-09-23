@@ -1,0 +1,269 @@
+CAD/CAE/CAM
+Computer-Aided Design (CAD), Computer-Aided Engineering (CAE), and Computer-Aided Manufacturing (CAM) are computer software solutions that are used for the design, engineering, and manufacturing of products. CAD applications are used for designing a creating a model (virtual prototype). CAE applications are used for the analysis and validation of the model to check the design aspects. CAM applications are used to generate the tool path required for the manufacturing of machined parts.
+# Products
+259
+# Vendors
+119
+# Companies
+899.2K
+# Records
+3M
+12d Synergy
+3DXpert
+Abaqus Unified FEA
+ADAPT-Builder
+Aldec
+Allegro PCB Designer
+ALLPLAN
+Alma CAM
+ALPHACAM
+Altair HyperCrash
+Altair HyperStudy
+Altair Hyperworks
+Altair Inspire
+Altair OptiStruct
+Altair SimSolid
+Altium (Unspecified Product)
+ANSYS (Unspecified Product)
+Ansys Motion
+Ansys SPEOS
+AnyCasting
+Artec Studio
+ArtiosCAD
+AUCOTEC Engineering Base
+AutoCAD
+AutoCAD LT
+Autodesk (Unspecified Product)
+Autodesk Advance Steel
+Autodesk AEC Collection
+Autodesk Alias
+Autodesk Assemble
+Autodesk BIM 360
+Autodesk BIM 360 Docs
+Autodesk BIM Collaborate
+Autodesk Build
+Autodesk Civil 3D
+Autodesk Design Review
+Autodesk DWG TrueView
+Autodesk Eagle
+Autodesk FeatureCAM
+Autodesk Fusion 360
+Autodesk InfraWorks
+Autodesk Inventor
+Autodesk Inventor CAM
+Autodesk Inventor Nastran
+Autodesk Moldflow
+Autodesk MotionBuilder
+Autodesk PartMaker
+Autodesk Point Layout
+Autodesk PowerInspect
+Autodesk PowerMill
+Autodesk PowerShape
+Autodesk ReCAP
+Autodesk Revit
+Autodesk Structural Bridge Design
+Autodesk Vehicle Tracking
+Autodesk VRED
+AutoTURN
+AVEVA E3D Design
+AVEVA PDMS
+AVL EXCITE
+BabtecQ
+Bentley (Unspecified Product)
+Bentley Architecture
+Bentley AutoPLANT
+Bentley CivilStorm
+Bentley CulvertMaster
+Bentley Descartes
+Bentley MAXSURF
+Bentley MicroStation
+Bentley OpenBuildings Designer
+Bentley OpenBuildings Speedikon
+Bentley OpenFlows FlowMaster
+Bentley OpenFlows SewerCAD
+Bentley OpenFlows StormCAD
+Bentley OpenSite
+Bentley RAM
+Bentley RAM Concept
+Bentley SewerGEMS
+Bentley SITEOPS
+Bentley STAAD
+Bentley WaterCAD
+BIM Track
+BobCAD-CAM
+Bricsys Bricscad
+CABINET VISION
+CADMOULD
+CADPIPE
+CADSIM Plus
+CADSTAR
+CADWorx
+CADWorx P&ID
+CADWorx Plant
+CADWorx Structure
+CAESAR II
+CAMWorks
+CATIA
+Cimatron
+CimatronE
+CityCAD
+CNC Software
+CorelCAD
+Covadis
+CR-8000
+Creo Elements/Pro
+Creo Parametric
+Dassault 3DSwYm
+Dassault DraftSight
+Dassault ENOVIA
+Dassault SIMULIA
+Dassault SOLIDWORKS
+Dassault Systemes (Unspecified Product)
+DataCAD
+DDS-CAD
+Delcam
+Dlubal Software
+DynaScape
+EDGECAM
+Enscape
+Epicor CPQ
+EPLAN
+ESPRIT CAM
+ExtendSim
+FabTrol
+FactoryCAD
+Fibersim
+FlexSim
+FloEFD
+form-Z
+FRAMECAD
+FreeCAD
+GDSVU
+GibbsCAM
+GrabCAD
+Graphisoft
+Graphisoft ArchiCAD
+GT STRUDL
+GT-SUITE
+GuideSIGN
+Hexagon PPM
+HydroCAD
+HyperLynx
+hyperMILL
+Innovyze
+InRoads
+Intergraph Smart 3D
+IronCAD
+Isogen
+Isogen Publisher
+JacqCAD
+KiCad
+KiCad EDA
+KISSsoft
+Lantek Expert
+Lighting Reality
+Line Designer
+LogiKal
+LucidShape
+MacDraft
+machineering
+Macola
+MagiCAD
+Maptek
+Markforged
+Mastercam
+Materialise Magics
+Meshmixer
+Microvellum
+midas Civil
+Moldex3D
+Mozaik
+MSC Nastran
+nTopology
+NVIDIA Iray
+NVIDIA Isaac SDK
+NVIDIA Omniverse
+Onshape
+OptiTex
+OrCAD Capture
+OrCAD Library Builder
+OrCAD PCB Designer
+OrCAD PSpice Designer
+PADS
+Panel Planner
+PartyCAD
+PowerFLOW
+PRO Landscape
+Process Simulate
+PSCAD
+PTC Creo
+PTC Creo Elements/Direct
+PTC Mathcad
+PV Elite
+QFloors
+RADAN
+Redshift
+Revizto
+Rhino Grasshopper
+RhinoCAM
+Rhinoceros
+RIB Software iTWO
+RISA-3D
+RUPLAN
+SAP ECTR
+SAP2000
+SCIA Engineer
+Sefaira
+Settle3
+Siemens I-DEAS
+Siemens NX
+Siemens PLM
+SigmaNEST
+Sigmasoft
+SignCAD
+Simcenter 3D
+Simcenter Femap
+Simcenter Nastran
+SimScale
+SketchUp Pro
+SmartSketch
+Solibri
+SolidCAM
+SOLIDWORKS Composer
+SOLIDWORKS Flow Simulation
+SOLIDWORKS Plastics
+SOLIDWORKS Visualize
+SprutCAM
+STRUMIS
+SURFCAM
+Syndeia
+Synopsys (Unspecified Product)
+Synopsys Avalon
+Synopsys Simpleware
+Synopsys TCAD
+TAITherm
+Tebis
+Tekla Structural Designer
+Tekla Tedds
+Thermal Desktop
+Tinkercad
+TopSolid'Cam
+TraceParts
+TracePro
+Trane TRACE
+Trimble Connect
+Trimble DuctDesigner 3D
+Trimble EC-CAD
+Trimble PipeDesigner 3D
+TurboCAD
+V-Ray
+Vertex BD
+Vetigraph
+VISI
+Visual Components
+WITNESS Horizon
+WORKNC
+Xpedition
+ZW3D
+ZWCAD
+Zync Render

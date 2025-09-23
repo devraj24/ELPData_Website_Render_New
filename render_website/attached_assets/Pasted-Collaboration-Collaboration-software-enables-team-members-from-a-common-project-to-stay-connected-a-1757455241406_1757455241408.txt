@@ -1,0 +1,249 @@
+Collaboration
+Collaboration software enables team members from a common project to stay connected and work together from any location on any device. Features include scheduling, communication, and collaboration through email, shared calendaring, VoIP services, video conferencing, documents, and message boards.
+# Products
+239
+# Vendors
+172
+# Companies
+3.3M
+# Records
+4.9M
+3CX
+8x8 (Unspecified Product)
+8x8 Fuze
+8x8 Virtual Office
+ActivEngage
+Ad Astra
+Adobe Behance
+Adobe Connect
+AgilityHealth
+Airmeet
+Akumina
+Apache James
+Apache Kafka
+Apache OpenMeetings
+Apache RocketMQ
+Apple TestFlight
+Apptix
+Apty
+ArcGIS Hub
+Arkadin
+Asana
+AT&T Collaborate
+AT&T Conferencing
+Atlassian Confluence
+Autodesk A360
+Avaya Equinox
+Avaya Flare Experience
+Avaya IP Office
+Avaya Meeting Exchange
+Avaya Officelinx
+AvayaLive Engage
+Axero
+Azendoo
+Bitrix24
+BlueJeans
+BlueJeans Command Center
+BlueJeans Events
+BlueJeans Meetings
+BlueJeans Rooms
+BlueTie
+Bold360
+Bookassist
+Calendly
+CallHub
+Carchat24
+Cbox
+Chamaileon
+Chatwork
+Chef Automate
+Cisco Business Edition 6000
+Cisco Codian
+Cisco Collaboration
+Cisco Hosted Collaboration Solution (HCS)
+Cisco MCU 4500
+Cisco MX200
+Cisco MX300
+Cisco Prime Collaboration
+Cisco Show and Share
+Cisco Tandberg
+Cisco WebEx
+Cisco WebEx Event Center
+Cisco WebEx Teams
+Cisco WebEx Weboffice
+ClickMeeting
+Colligo
+Comindwork
+Comm100
+Crossbeam
+Cvent Meeting Management
+Dassault 3DSwYm
+Dataiku
+Demodesk
+Dialpad Meetings
+Discord
+Doodle
+DoubleDutch
+dscout
+DTEN
+Duet Enterprise
+Edelweiss
+eXo Platform
+FigJam
+Flowdock
+Frame.io
+FusionIM
+Gather
+GitHub (Unspecified Product)
+GitHub Gist
+Glia
+Google Calendar
+Google Voice
+Google Workspace
+GoToConnect
+GoToMeeting
+GoToWebinar
+Groupize
+HCL Domino 5
+HCL Domino 6
+HCL Domino 7
+HCL Domino 8
+HCL Notes
+HCL Sametime
+Hiero
+HipChat
+Hubilo
+HyperOffice
+iAdvize
+iBabs
+Ideagen Huddle
+Igloo Software
+InnoSoft Fusion
+Inteliquent
+IntelliLink
+Interact
+InTouch Health
+iObeya
+IQGeo (Unspecified Product)
+IT Glue
+Jalios Workplace
+Jamboard
+Jitsi
+Join.Me
+Jostle
+Kakao
+Kintone
+Kissflow
+Klaxoon
+KnowledgeOwl
+Krible
+Kumospace
+LivePerson Automotive
+LiveTex
+LiveTiles Intranet
+Localist
+LogMeIn
+LogMeIn Pro
+Lucidspark
+LumApps
+MangoApps
+Mattermost
+Medallia Crowdicity
+MeisterTask
+Mersive Solstice
+Microsoft 365 Apps & Services
+Microsoft Dynamics 365 Guides
+Microsoft Live Meeting
+Microsoft Skype
+Microsoft Skype GroupMe
+Microsoft Teams Rooms
+Microsoft Whiteboard
+MindManager
+MONAI
+Moxie Software
+Nasdaq Boardvantage
+NetIQ Vivinet Assessor
+Nextcloud
+Nexudus
+No Magic Teamwork Cloud
+Oblong Mezzanine
+Octane AI
+Olark
+OnBoard
+One2Team
+ONICON
+OpenProject
+OpenText Core
+OpenText Hightail
+OpenText Vibe
+Oracle Unified Communications Suite
+Padlet
+PakEnergy Land
+Poly Trio
+PopBookings
+PopSQL
+Premiere Global Services
+Prezi
+Rackspace Email
+Reachdesk
+Redash
+RingCentral Glip
+RingCentral Meetings
+RMG INVIEW
+Rocket.Chat
+Saba Meeting
+Salesforce Live Agent
+Salesforce.com Chatter
+SAP Jam Collaboration
+SAP StreamWork
+SchoolMessenger
+Screenleap
+SecureDocs
+Sender
+SevenBridges
+ShowMyPC
+Simpplr
+Slack
+SmartIQ
+Smartsheet
+SnapEngage
+Sococo
+SpatialChat
+Stack Overflow
+Stackfield
+Stormboard
+Striata
+SummitSync
+Switchvox
+Swoogo
+Sympli
+Teamup
+TeamWox
+TextExpander
+ThinkTank
+Traction TeamPage
+Trimble Connect
+TSheets
+Unily
+Userlane
+Verizon Conferencing
+Vevox
+Volusion LiveChat
+Webasyst
+WebIssues
+WebsiteAlive
+WeChat Work
+WeTransfer
+Wickr
+Wiredrive
+Workplace by Facebook
+Workvivo
+YAROOMS
+Yealink
+Zapier
+Zend Framework
+Zoho Assist
+Zoho Connect
+Zoom (Unspecified Product)
+Zoom Meetings
+Zoom Whiteboard

@@ -1,0 +1,110 @@
+GIS Software
+Geographic Information System (GIS) is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographical data.
+# Products
+100
+# Vendors
+46
+# Companies
+1.7M
+# Records
+1.9M
+Accruent vx Field
+Apple Maps
+ArcGIS 3D Analyst
+ArcGIS Bathymetry
+ArcGIS Business Analyst
+ArcGIS CityEngine
+ArcGIS Data Reviewer
+ArcGIS Defense Mapping
+ArcGIS Desktop
+ArcGIS Desktop Basic
+ArcGIS Earth
+ArcGIS Enterprise
+ArcGIS Excalibur
+ArcGIS Explorer
+ArcGIS GeoAnalytics Server
+ArcGIS GeoEvent Server
+ArcGIS Geostatistical Analyst
+ArcGIS Hub
+ArcGIS Image Analyst
+ArcGIS Image Server
+ArcGIS Indoors
+ArcGIS Insights
+ArcGIS Maps for Office
+ArcGIS Maritime
+ArcGIS Monitor
+ArcGIS Navigator
+ArcGIS Network Analyst
+ArcGIS Notebooks
+ArcGIS Online
+ArcGIS Open Data
+ArcGIS Pipeline Referencing
+ArcGIS Platform
+ArcGIS Production Mapping
+ArcGIS Publisher
+ArcGIS QuickCapture
+ArcGIS Schematics
+ArcGIS Server
+ArcGIS Spatial Analyst
+ArcGIS StoryMaps
+ArcGIS Tracking Analyst
+ArcGIS Urban
+ArcGIS Workflow Manager
+ArcIMS
+ArcReader
+Autodesk InfoWorks WS Pro
+Azure Kinect DK
+Azure Maps
+Blue Marble Global Mapper
+CARTO
+CloudMade
+CrisisGo
+EagleView (Unspecified Product)
+ENGIE Impact
+ESRI (Unspecified Product)
+Foursquare
+Futura Systems
+GE Vernova Smallworld
+Geocortex
+GeoFusion
+GeoJSON
+GEOVIA Surpac
+Gigya Share Bar
+Google Business Profile
+Google Distance Matrix API
+Google Geocoding API
+Google Maps
+Google Panoramio
+InfoSewer
+InfoSWMM
+Itron (Unspecified Product)
+Jibestream
+LucidChart
+Mapbox (Unspecified Product)
+MapInfo Pro
+Mapline
+MapMarker
+MapPress Pro
+MapQuest
+Maptek Vulcan
+Maptitude
+MapXtreme
+Maxar (Unspecified Product)
+Oasis montaj
+Orbital Insight
+PakEnergy Land
+Pandell LandWorks
+PLAXIS
+PostGIS
+PowerFLOW
+Precisely Spectrum Spatial
+Quorum Land Management
+RASTRAC
+RokDoc
+Schneider ArcFM
+SeisSpace ProMAX
+Sirovision
+TomTom (Unspecified Product)
+Trimble (Unspecified Product)
+what3words
+XPStorm

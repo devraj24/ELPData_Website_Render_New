@@ -1,0 +1,461 @@
+import { Switch, Route } from "wouter";
+import { queryClient } from "./lib/queryClient";
+import { QueryClientProvider } from "@tanstack/react-query";
+// import { lazy } from "react";
+import { Toaster } from "@/components/ui/toaster";
+import { TooltipProvider } from "@/components/ui/tooltip";
+import { HelmetProvider } from "react-helmet-async";
+import Home from "@/pages/home";
+import NotFound from "@/pages/not-found";
+import CEOEmailListPage from "@/pages/ceo-email-list";
+import CFOEmailListPage from "@/pages/cfo-email-list";
+import InstalledBasePage from "@/pages/installed-base";
+import SalesforceCRMCustomersListPage from "@/pages/salesforce-crm-customers-list";
+import CRMTechnologiesPage from "@/pages/crm-technologies";
+import ERPTechnologiesPage from "@/pages/erp-technologies";
+import CloudComputingTechnologiesPage from "@/pages/cloud-computing-technologies";
+import VirtualizationTechnologiesPage from "@/pages/virtualization-technologies";
+import TechnologyDatabaseOverviewPage from "@/pages/technology-database-overview";
+import SAPUsersListPage from "@/pages/sap-users-list";
+import SalesforceUsersListPage from "@/pages/salesforce-users-list";
+import AWSUsersListPage from "@/pages/aws-users-list";
+import AzureUsersListPage from "@/pages/azure-users-list";
+import OracleUsersListPage from "@/pages/oracle-users-list";
+// import SalesforceComUsersListPage from "@/pages/salesforce-com-users-list";
+// import OracleCorporationUsersListPage from "@/pages/oracle-corporation-users-list";
+import SalesforceSimplePage from "@/pages/salesforce-simple";
+import OracleSimplePage from "@/pages/oracle-simple";
+import HubSpotUsersListPage from "@/pages/hubspot-users-list";
+import CRMUsersListPage from "@/pages/crm-users-list";
+import ERPUsersListPage from "@/pages/erp-users-list";
+import TechnologyListsPage from "@/pages/technology-lists";
+import ApplicationDetailPage from "@/pages/application-detail";
+import SugarCRMUsersListPage from "@/pages/sugarcrm-users-list";
+import JDEdwardsUsersListPage from "@/pages/jd-edwards-users-list";
+import DataSolutionsPage from "@/pages/data-solutions";
+import DataServicesPage from "@/pages/data-services";
+import MarketingSolutionsPage from "@/pages/marketing-solutions";
+import RiskManagementPage from "@/pages/risk-management";
+import MarketoUsersListPage from "@/pages/marketo-users-list";
+import MicrosoftWordUsersListPage from "@/pages/microsoft-word-users-list";
+import OracleDatabaseUsersListPage from "@/pages/oracle-database-users-list";
+import AS400iSeriesUsersListPage from "@/pages/as400-iseries-users-list";
+import CloudServicesUsersListPage from "@/pages/cloud-services-users-list";
+import GoogleCloudUsersListPage from "@/pages/google-cloud-users-list";
+import VMwareUsersListPage from "@/pages/vmware-users-list";
+import IBMUsersListPage from "@/pages/ibm-users-list";
+import PEOUsersListPage from "@/pages/peo-users-list";
+import CiscoUsersListPage from "@/pages/cisco-users-list";
+import WorkdayUsersListPage from "@/pages/workday-users-list";
+import AIMachineLearningUsersListPage from "@/pages/ai-machine-learning-users-list";
+import CybersecurityUsersListPage from "@/pages/cybersecurity-users-list";
+import FinTechUsersListPage from "@/pages/fintech-users-list";
+import HealthcareITUsersListPage from "@/pages/healthcare-it-users-list";
+import TechnologyUserListPage from "@/pages/technology-user-list";
+import BusinessContactDataPage from "@/pages/business-contact-data";
+import MenuPageTemplate from "@/pages/menu-page-template";
+import ResourcesPage from "@/pages/resources";
+import BlogArticlePage from "@/pages/blog-article";
+import BlogCategoryPage from "@/pages/blog-category";
+import WebinarDetailPage from "@/pages/webinar-detail";
+import IndustryReportPage from "@/pages/industry-report";
+import SuccessStoriesPage from "@/pages/success-stories";
+import CaseStudyDetailPage from "@/pages/case-study-detail";
+import AboutPage from "@/pages/about";
+import CompanyOverviewPage from "@/pages/company-overview";
+import BlogVMwareESXiMigration from "@/pages/blog-vmware-esxi-migration";
+import BlogPage from "@/pages/blog";
+import BlogDataVendorsComparison from "@/pages/blog-data-vendors-comparison";
+import BlogPEODataChallenges from "@/pages/blog-peo-data-challenges";
+import BlogFinancialCloseReportingSuccess from "@/pages/blog-financial-close-reporting-success";
+import BlogERPSoftwareSuccessStory from "@/pages/blog-erp-software-success-story";
+import BlogSAPBPCSuccessStory from "@/pages/blog-sap-bpc-success-story";
+import BlogOracleHyperionSuccess from "@/pages/blog-oracle-hyperion-success";
+import BlogWorkdayAdaptivePlanning from "@/pages/blog-workday-adaptive-planning";
+import BlogIBMPlanningAnalytics from "@/pages/blog-ibm-planning-analytics";
+import BlogAnaplanSuccessStory from "@/pages/blog-anaplan-success-story";
+import BlogBoardInternationalSuccess from "@/pages/blog-board-international-success";
+import BlogTMSSoftwareSuccess from "@/pages/blog-tms-software-success";
+import BlogHRSoftwareSuccess from "@/pages/blog-hr-software-success";
+import BlogManufacturingSoftwareSuccess from "@/pages/blog-manufacturing-software-success";
+import BlogHealthcareSoftwareSuccess from "@/pages/blog-healthcare-software-success";
+import BlogMainframeModernizationSuccess from "@/pages/blog-mainframe-modernization-success";
+import FAQPage from "@/pages/faq";
+import GlossaryPage from "@/pages/glossary";
+import TechnologyDataPlatformPage from "@/pages/technology-data-platform";
+import IntuitUsersListPage from "@/pages/intuit-users-list";
+import WordPressUsersListPage from "@/pages/wordpress-users-list";
+import SageUsersListPage from "@/pages/sage-users-list";
+import InforUsersListPage from "@/pages/infor-users-list";
+import HPUsersListPage from "@/pages/hp-users-list";
+import AppleUsersListPage from "@/pages/apple-users-list";
+import IntuitQuickBooksUsersListPage from "@/pages/intuit-quickbooks-users-list";
+import MicrosoftSharePointUsersListPage from "@/pages/microsoft-sharepoint-users-list";
+import AtlassianUsersListPage from "@/pages/atlassian-users-list";
+import MicrosoftSQLServerUsersListPage from "@/pages/microsoft-sql-server-users-list";
+import MicrosoftAccessUsersListPage from "@/pages/microsoft-access-users-list";
+import OracleMySQLUsersListPage from "@/pages/oracle-mysql-users-list";
+import MicrosoftAspNetUsersListPage from "@/pages/microsoft-aspnet-users-list";
+import PHPUsersListPage from "@/pages/php-users-list";
+import MagentoUsersListPage from "@/pages/magento-users-list";
+import LinuxUsersListPage from "@/pages/linux-users-list";
+import GoDaddyUsersListPage from "@/pages/godaddy-users-list";
+import ApacheUsersListPage from "@/pages/apache-users-list";
+import JQueryUsersListPage from "@/pages/jquery-users-list";
+import OracleJavaUsersListPage from "@/pages/oracle-java-users-list";
+import WooCommerceUsersListPage from "@/pages/woocommerce-users-list";
+import McAfeeUsersListPage from "@/pages/mcafee-users-list";
+import UnixUsersListPage from "@/pages/unix-users-list";
+import MicrosoftDotNetUsersListPage from "@/pages/microsoft-dotnet-users-list";
+import IntentDataSolutionsPage from "@/pages/intent-data-solutions";
+import LeadGenerationServicesPage from "@/pages/lead-generation-services";
+import MainframeUsersListPage from "@/pages/mainframe-users-list";
+import MarketAnalysisPage from "@/pages/market-analysis";
+import CompetitiveIntelligencePage from "@/pages/competitive-intelligence";
+import APIIntegrationPage from "@/pages/api-integration";
+import ManufacturingUsersListPage from "@/pages/manufacturing-users-list";
+import SustainabilityUsersListPage from "@/pages/sustainability-users-list";
+import DocumentationPage from "@/pages/documentation";
+import APIReferencePage from "@/pages/api-reference";
+import CaseStudiesPage from "@/pages/case-studies";
+import WhitePapersPage from "@/pages/white-papers";
+import RoleBasedSolutionsPage from "@/pages/role-based-solutions";
+import RoleConnectPage from "@/pages/role-connect";
+import IndustryReachPage from "@/pages/industry-reach";
+import TechnologyIndustryEmailListPage from "@/pages/technology-industry-email-list";
+import TechnologyResearchPage from "@/pages/technology-research";
+import AutodeskUsersListPage from "@/pages/autodesk-users-list";
+import IndustrySolutionsPage from "@/pages/industry-solutions";
+import RegionalSolutionsPage from "@/pages/regional-solutions";
+import CMOEmailListPage from "@/pages/cmo-email-list";
+import CTOEmailListPage from "@/pages/cto-email-list";
+import VPEmailListPage from "@/pages/vp-email-list";
+import CreativeDirectorsEmailListPage from "@/pages/creative-directors-email-list";
+import ElectricalEngineersEmailListPage from "@/pages/electrical-engineers-email-list";
+import NursesEmailListPage from "@/pages/nurses-email-list";
+import AccountantsEmailListPage from "@/pages/accountants-email-list";
+import EngineersEmailListPage from "@/pages/engineers-email-list";
+import SecuritySpecialistsEmailListPage from "@/pages/security-specialists-email-list";
+import TeachersEmailListPage from "@/pages/teachers-email-list";
+import IBMMainframeUsersListPage from "@/pages/ibm-mainframe-users-list";
+import IBMSystemZUsersListPage from "@/pages/ibm-system-z-users-list";
+import IBM3090UsersListPage from "@/pages/ibm-3090-users-list";
+import IBMES9000UsersListPage from "@/pages/ibm-es9000-users-list";
+import IBM3084UsersListPage from "@/pages/ibm-3084-users-list";
+import DoctorsEmailListPage from "@/pages/doctors-email-list";
+import ArchitectsEmailListPage from "@/pages/architects-email-list";
+import LawyersEmailListPage from "@/pages/lawyers-email-list";
+import PharmacistsEmailListPage from "@/pages/pharmacists-email-list";
+import RealEstateAgentsEmailListPage from "@/pages/real-estate-agents-email-list";
+import SoftwareEngineersEmailListPage from "@/pages/software-engineers-email-list";
+
+import SericultureIndustryEmailListPage from "@/pages/sericulture-industry-email-list";
+import BiotechnologyIndustryEmailListPage from "@/pages/biotechnology-industry-email-list";
+import DirectorsEmailListPage from "@/pages/directors-email-list";
+import ManagersEmailListPage from "@/pages/managers-email-list";
+import DataEnrichmentPage from "@/pages/data-enrichment";
+import EmailMarketingPage from "@/pages/email-marketing";
+import AIMarketingAutomationPage from "@/pages/ai-marketing-automation";
+import EmailMarketingPlatformsPage from "@/pages/email-marketing-platforms";
+import AccountBasedMarketingPlatformsPage from "@/pages/account-based-marketing-platforms";
+import ContactUsPage from "@/pages/contact-us";
+import MarketingAutomationPage from "@/pages/marketing-automation";
+import IndustryResourcesPage from "@/pages/industry-resources";
+import AIAgentsPage from "@/pages/ai-agents";
+import RealEstateEmailListPage from "@/pages/real-estate-email-list";
+import OilGasEmailListPage from "@/pages/oil-gas-email-list";
+import HospitalityEmailListPage from "@/pages/hospitality-email-list";
+import RetailIndustryListPage from "@/pages/retail-industry-list";
+import UtilityIndustryListPage from "@/pages/utility-industry-list";
+import ITIndustryEmailListPage from "@/pages/it-industry-email-list";
+import HealthcareIndustryEmailListPage from "@/pages/healthcare-industry-email-list";
+import ManufacturingIndustryEmailListPage from "@/pages/manufacturing-industry-email-list";
+import FinancialServicesEmailListPage from "@/pages/financial-services-email-list";
+import AutomotiveIndustryEmailListPage from "@/pages/automotive-industry-email-list";
+import ConstructionIndustryEmailListPage from "@/pages/construction-industry-email-list";
+import EnergyIndustryEmailListPage from "@/pages/energy-industry-email-list";
+import TransportationIndustryEmailListPage from "@/pages/transportation-industry-email-list";
+import InsuranceIndustryEmailListPage from "@/pages/insurance-industry-email-list";
+import BankingIndustryEmailListPage from "@/pages/banking-industry-email-list";
+import TelecommunicationsIndustryEmailListPage from "@/pages/telecommunications-industry-email-list";
+import AerospaceIndustryEmailListPage from "@/pages/aerospace-industry-email-list";
+import PharmaceuticalIndustryEmailListPage from "@/pages/pharmaceutical-industry-email-list";
+import AgricultureIndustryEmailListPage from "@/pages/agriculture-industry-email-list";
+import MiningIndustryEmailListPage from "@/pages/mining-industry-email-list";
+import LogisticsIndustryEmailListPage from "@/pages/logistics-industry-email-list";
+import ChemicalIndustryEmailListPage from "@/pages/chemical-industry-email-list";
+import MediaEntertainmentIndustryEmailListPage from "@/pages/media-entertainment-industry-email-list";
+import FoodBeverageIndustryEmailListPage from "@/pages/food-beverage-industry-email-list";
+import TextileApparelIndustryEmailListPage from "@/pages/textile-apparel-industry-email-list";
+import CybersecurityIndustryEmailListPage from "@/pages/cybersecurity-industry-email-list";
+import FurnitureIndustryEmailListPage from "@/pages/furniture-industry-email-list";
+import SportsRecreationIndustryEmailListPage from "@/pages/sports-recreation-industry-email-list";
+import LegalServicesIndustryEmailListPage from "@/pages/legal-services-industry-email-list";
+import ConsultingServicesIndustryEmailListPage from "@/pages/consulting-services-industry-email-list";
+import HospitalityTourismIndustryEmailListPage from "@/pages/hospitality-tourism-industry-email-list";
+import RealEstateIndustryEmailListPage from "@/pages/real-estate-industry-email-list";
+import RetailIndustryEmailListPage from "@/pages/retail-industry-email-list";
+import EducationIndustryEmailListPage from "@/pages/education-industry-email-list";
+import GovernmentPublicSectorEmailListPage from "@/pages/government-public-sector-email-list";
+import NonprofitIndustryEmailListPage from "@/pages/nonprofit-industry-email-list";
+import UtilitiesIndustryEmailListPage from "@/pages/utilities-industry-email-list";
+import EnvironmentalServicesIndustryEmailListPage from "@/pages/environmental-services-industry-email-list";
+import FitnessIndustryEmailListPage from "@/pages/fitness-industry-email-list";
+import AccountingIndustryEmailListPage from "@/pages/accounting-industry-email-list";
+import DoctorsPhysiciansEmailListPage from "@/pages/doctors-physicians-email-list";
+
+function Router() {
+  return (
+    <Switch>
+      <Route path="/" component={Home} />
+      <Route path="/ceo-email-list" component={CEOEmailListPage} />
+      <Route path="/cfo-email-list" component={CFOEmailListPage} />
+      <Route path="/installed-base" component={InstalledBasePage} />
+      <Route path="/salesforce-crm-customers-list" component={SalesforceCRMCustomersListPage} />
+      <Route path="/crm-technologies" component={CRMTechnologiesPage} />
+      <Route path="/erp-technologies" component={ERPTechnologiesPage} />
+      <Route path="/cloud-computing-technologies" component={CloudComputingTechnologiesPage} />
+      <Route path="/virtualization-technologies" component={VirtualizationTechnologiesPage} />
+      <Route path="/technology-database-overview" component={TechnologyDatabaseOverviewPage} />
+      <Route path="/pages/sap_users_list" component={SAPUsersListPage} />
+      <Route path="/sap-users-list" component={SAPUsersListPage} />
+      <Route path="/pages/salesforce_users_list" component={SalesforceUsersListPage} />
+      <Route path="/salesforce-users-list" component={SalesforceUsersListPage} />
+      <Route path="/pages/aws_users_list" component={AWSUsersListPage} />
+      <Route path="/aws-users-list" component={AWSUsersListPage} />
+      <Route path="/pages/azure_users_list" component={AzureUsersListPage} />
+      <Route path="/azure-users-list" component={AzureUsersListPage} />
+      <Route path="/pages/oracle_users_list" component={OracleUsersListPage} />
+      <Route path="/oracle-users-list" component={OracleUsersListPage} />
+      <Route path="/salesforce-com-users-list" component={SalesforceSimplePage} />
+      <Route path="/oracle-corporation-users-list" component={OracleSimplePage} />
+      <Route path="/oracle-database-users-list" component={OracleDatabaseUsersListPage} />
+      <Route path="/pages/hubspot_users_list" component={HubSpotUsersListPage} />
+      <Route path="/hubspot-users-list" component={HubSpotUsersListPage} />
+      <Route path="/pages/crm_users_list" component={CRMUsersListPage} />
+      <Route path="/crm-users-list" component={CRMUsersListPage} />
+      <Route path="/pages/erp_users_list" component={ERPUsersListPage} />
+      <Route path="/erp-users-list" component={ERPUsersListPage} />
+      <Route path="/pages/technology_lists" component={TechnologyListsPage} />
+      <Route path="/technology-lists" component={TechnologyListsPage} />
+      <Route path="/pages/sugarcrm_users_list" component={SugarCRMUsersListPage} />
+      <Route path="/sugarcrm-users-list" component={SugarCRMUsersListPage} />
+      <Route path="/pages/jd_edwards_users_list" component={JDEdwardsUsersListPage} />
+      <Route path="/jd-edwards-users-list" component={JDEdwardsUsersListPage} />
+      <Route path="/marketo-users-list" component={MarketoUsersListPage} />
+      <Route path="/microsoft-word-users-list" component={MicrosoftWordUsersListPage} />
+      <Route path="/oracle-database-users-list" component={OracleDatabaseUsersListPage} />
+      <Route path="/as400-iseries-users-list" component={AS400iSeriesUsersListPage} />
+      <Route path="/cloud-services-users-list" component={CloudServicesUsersListPage} />
+      <Route path="/google-cloud-users-list" component={GoogleCloudUsersListPage} />
+      <Route path="/vmware-users-list" component={VMwareUsersListPage} />
+      <Route path="/ibm-users-list" component={IBMUsersListPage} />
+      <Route path="/peo-users-list" component={PEOUsersListPage} />
+      <Route path="/cisco-users-list" component={CiscoUsersListPage} />
+      <Route path="/workday-users-list" component={WorkdayUsersListPage} />
+      <Route path="/industry-reach" component={IndustryReachPage} />
+      <Route path="/ai-machine-learning-users-list" component={AIMachineLearningUsersListPage} />
+      <Route path="/cybersecurity-users-list" component={CybersecurityUsersListPage} />
+      <Route path="/fintech-users-list" component={FinTechUsersListPage} />
+      <Route path="/healthcare-it-users-list" component={HealthcareITUsersListPage} />
+      <Route path="/intuit-users-list" component={IntuitUsersListPage} />
+      <Route path="/wordpress-users-list" component={WordPressUsersListPage} />
+      <Route path="/sage-users-list" component={SageUsersListPage} />
+      <Route path="/infor-users-list" component={InforUsersListPage} />
+      <Route path="/hp-users-list" component={HPUsersListPage} />
+      <Route path="/apple-users-list" component={AppleUsersListPage} />
+      <Route path="/autodesk-users-list" component={AutodeskUsersListPage} />
+      <Route path="/intuit-quickbooks-users-list" component={IntuitQuickBooksUsersListPage} />
+      <Route path="/microsoft-sharepoint-users-list" component={MicrosoftSharePointUsersListPage} />
+      <Route path="/atlassian-users-list" component={AtlassianUsersListPage} />
+      <Route path="/microsoft-sql-server-users-list" component={MicrosoftSQLServerUsersListPage} />
+      <Route path="/microsoft-access-users-list" component={MicrosoftAccessUsersListPage} />
+      <Route path="/oracle-mysql-users-list" component={OracleMySQLUsersListPage} />
+      <Route path="/microsoft-aspnet-users-list" component={MicrosoftAspNetUsersListPage} />
+      <Route path="/php-users-list" component={PHPUsersListPage} />
+      <Route path="/magento-users-list" component={MagentoUsersListPage} />
+      <Route path="/linux-users-list" component={LinuxUsersListPage} />
+      <Route path="/godaddy-users-list" component={GoDaddyUsersListPage} />
+      <Route path="/apache-users-list" component={ApacheUsersListPage} />
+      <Route path="/jquery-users-list" component={JQueryUsersListPage} />
+      <Route path="/oracle-java-users-list" component={OracleJavaUsersListPage} />
+      <Route path="/woocommerce-users-list" component={WooCommerceUsersListPage} />
+      <Route path="/mcafee-users-list" component={McAfeeUsersListPage} />
+      <Route path="/unix-users-list" component={UnixUsersListPage} />
+      <Route path="/microsoft-dotnet-users-list" component={MicrosoftDotNetUsersListPage} />
+      <Route path="/intent-data-solutions" component={IntentDataSolutionsPage} />
+      <Route path="/lead-generation-services" component={LeadGenerationServicesPage} />
+      <Route path="/mainframe-users-list" component={MainframeUsersListPage} />
+      <Route path="/technology-research" component={TechnologyResearchPage} />
+      <Route path="/market-analysis" component={MarketAnalysisPage} />
+      <Route path="/competitive-intelligence" component={CompetitiveIntelligencePage} />
+      <Route path="/api-integration" component={APIIntegrationPage} />
+      <Route path="/manufacturing-users-list" component={ManufacturingUsersListPage} />
+      <Route path="/sustainability-users-list" component={SustainabilityUsersListPage} />
+      <Route path="/documentation" component={DocumentationPage} />
+      <Route path="/api-reference" component={APIReferencePage} />
+      <Route path="/case-studies" component={CaseStudiesPage} />
+      <Route path="/white-papers" component={WhitePapersPage} />
+      <Route path="/data-solutions" component={DataSolutionsPage} />
+      <Route path="/pages/data_solutions" component={DataSolutionsPage} />
+      <Route path="/data-services" component={DataServicesPage} />
+      <Route path="/pages/data_services" component={DataServicesPage} />
+      <Route path="/marketing-solutions" component={MarketingSolutionsPage} />
+      <Route path="/pages/marketing_solutions" component={MarketingSolutionsPage} />
+      <Route path="/risk-management" component={RiskManagementPage} />
+      <Route path="/pages/risk_management" component={RiskManagementPage} />
+      <Route path="/application/:name" component={ApplicationDetailPage} />
+      <Route path="/business-contact-data" component={BusinessContactDataPage} />
+      <Route path="/data-enrichment-services" component={DataEnrichmentPage} />
+      <Route path="/data-cleansing-verification" component={MenuPageTemplate} />
+      <Route path="/custom-data-research" component={MenuPageTemplate} />
+      <Route path="/global-business-database" component={MenuPageTemplate} />
+      <Route path="/data-appending" component={MenuPageTemplate} />
+      <Route path="/data-integration" component={MenuPageTemplate} />
+      <Route path="/data-management" component={MenuPageTemplate} />
+      <Route path="/data-analytics" component={MenuPageTemplate} />
+      <Route path="/data-consulting" component={MenuPageTemplate} />
+      <Route path="/email-marketing" component={EmailMarketingPage} />
+      <Route path="/email-marketing-campaigns" component={MenuPageTemplate} />
+      <Route path="/email-marketing-platforms" component={EmailMarketingPlatformsPage} />
+      <Route path="/ai-marketing-automation" component={AIMarketingAutomationPage} />
+      <Route path="/account-based-marketing" component={MenuPageTemplate} />
+      <Route path="/account-based-marketing-platforms" component={AccountBasedMarketingPlatformsPage} />
+      <Route path="/intent-data-solutions" component={MenuPageTemplate} />
+      <Route path="/lead-generation-services" component={MenuPageTemplate} />
+      <Route path="/marketing-automation" component={MarketingAutomationPage} />
+      <Route path="/business-credit-reports" component={MenuPageTemplate} />
+      <Route path="/compliance-solutions" component={MenuPageTemplate} />
+      <Route path="/fraud-prevention" component={MenuPageTemplate} />
+      <Route path="/risk-assessment-tools" component={MenuPageTemplate} />
+      <Route path="/due-diligence-services" component={MenuPageTemplate} />
+      <Route path="/about" component={AboutPage} />
+      <Route path="/company-overview" component={CompanyOverviewPage} />
+      <Route path="/blog" component={BlogPage} />
+      <Route path="/blog/vmware-esxi-migration-intelligence" component={BlogVMwareESXiMigration} />
+      <Route path="/blog/peo-data-challenges" component={BlogPEODataChallenges} />
+      <Route path="/blog/financial-close-reporting-success-story" component={BlogFinancialCloseReportingSuccess} />
+      <Route path="/blog/erp-software-success-story" component={BlogERPSoftwareSuccessStory} />
+      <Route path="/blog/sap-bpc-success-story" component={BlogSAPBPCSuccessStory} />
+      <Route path="/blog/oracle-hyperion-success" component={BlogOracleHyperionSuccess} />
+      <Route path="/blog/workday-adaptive-planning" component={BlogWorkdayAdaptivePlanning} />
+      <Route path="/blog/ibm-planning-analytics" component={BlogIBMPlanningAnalytics} />
+      <Route path="/blog/anaplan-success-story" component={BlogAnaplanSuccessStory} />
+      <Route path="/blog/board-international-success" component={BlogBoardInternationalSuccess} />
+      <Route path="/blog/tms-software-success" component={BlogTMSSoftwareSuccess} />
+      <Route path="/blog/hr-software-success" component={BlogHRSoftwareSuccess} />
+      <Route path="/blog/manufacturing-software-success" component={BlogManufacturingSoftwareSuccess} />
+      <Route path="/blog/healthcare-software-success" component={BlogHealthcareSoftwareSuccess} />
+      <Route path="/blog/mainframe-modernization-success" component={BlogMainframeModernizationSuccess} />
+      <Route path="/blog/data-vendors-comparison-2025" component={BlogDataVendorsComparison} />
+      <Route path="/faq" component={FAQPage} />
+      <Route path="/glossary" component={GlossaryPage} />
+      <Route path="/technology-data-platform" component={TechnologyDataPlatformPage} />
+      <Route path="/contact-us" component={ContactUsPage} />
+      <Route path="/resources" component={ResourcesPage} />
+      <Route path="/blog-category/:category" component={BlogCategoryPage} />
+      <Route path="/blog/category/:category" component={BlogCategoryPage} />
+      <Route path="/blog/:slug" component={BlogArticlePage} />
+      <Route path="/webinar/:slug" component={WebinarDetailPage} />
+      <Route path="/webinar-detail" component={WebinarDetailPage} />
+      <Route path="/report/:slug" component={IndustryReportPage} />
+      <Route path="/industry-report" component={IndustryReportPage} />
+      <Route path="/success-stories" component={SuccessStoriesPage} />
+      <Route path="/case-study/:slug" component={CaseStudyDetailPage} />
+      <Route path="/ai-agents" component={AIAgentsPage} />
+      <Route path="/industry-resources" component={IndustryResourcesPage} />
+      <Route path="/role-based-solutions" component={RoleBasedSolutionsPage} />
+      <Route path="/role-connect" component={RoleConnectPage} />
+      <Route path="/industry-reach" component={IndustryReachPage} />
+      <Route path="/technology-industry-email-list" component={TechnologyIndustryEmailListPage} />
+      <Route path="/technology-research" component={TechnologyResearchPage} />
+      <Route path="/industry-solutions" component={IndustrySolutionsPage} />
+      <Route path="/regional-solutions" component={RegionalSolutionsPage} />
+      <Route path="/cmo-email-list" component={CMOEmailListPage} />
+      <Route path="/cto-email-list" component={CTOEmailListPage} />
+      <Route path="/vp-email-list" component={VPEmailListPage} />
+      <Route path="/creative-directors-email-list" component={CreativeDirectorsEmailListPage} />
+      <Route path="/electrical-engineers-email-list" component={ElectricalEngineersEmailListPage} />
+      <Route path="/nurses-email-list" component={NursesEmailListPage} />
+      <Route path="/accountants-email-list" component={AccountantsEmailListPage} />
+      <Route path="/engineers-email-list" component={EngineersEmailListPage} />
+      <Route path="/security-specialists-email-list" component={SecuritySpecialistsEmailListPage} />
+      <Route path="/teachers-email-list" component={TeachersEmailListPage} />
+      <Route path="/sericulture-industry-email-list" component={SericultureIndustryEmailListPage} />
+      <Route path="/biotechnology-industry-email-list" component={BiotechnologyIndustryEmailListPage} />
+      <Route path="/directors-email-list" component={DirectorsEmailListPage} />
+      <Route path="/managers-email-list" component={ManagersEmailListPage} />
+      <Route path="/ibm-mainframe-users-list" component={IBMMainframeUsersListPage} />
+      <Route path="/ibm-system-z-users-list" component={IBMSystemZUsersListPage} />
+      <Route path="/ibm-3090-users-list" component={IBM3090UsersListPage} />
+      <Route path="/ibm-es9000-users-list" component={IBMES9000UsersListPage} />
+      <Route path="/ibm-3084-users-list" component={IBM3084UsersListPage} />
+      <Route path="/doctors-email-list" component={DoctorsEmailListPage} />
+      <Route path="/doctors-physicians-email-list" component={DoctorsPhysiciansEmailListPage} />
+      <Route path="/architects-email-list" component={ArchitectsEmailListPage} />
+      <Route path="/lawyers-email-list" component={LawyersEmailListPage} />
+      <Route path="/pharmacists-email-list" component={PharmacistsEmailListPage} />
+      <Route path="/real-estate-agents-email-list" component={RealEstateAgentsEmailListPage} />
+      <Route path="/software-engineers-email-list" component={SoftwareEngineersEmailListPage} />
+      <Route path="/industry-specialists" component={RoleConnectPage} />
+      <Route path="/real-estate-email-list" component={RealEstateEmailListPage} />
+      <Route path="/oil-gas-email-list" component={OilGasEmailListPage} />
+      <Route path="/hospitality-email-list" component={HospitalityEmailListPage} />
+      <Route path="/retail-industry-list" component={RetailIndustryListPage} />
+      <Route path="/utility-industry-list" component={UtilityIndustryListPage} />
+      <Route path="/it-industry-email-list" component={ITIndustryEmailListPage} />
+      <Route path="/healthcare-industry-email-list" component={HealthcareIndustryEmailListPage} />
+      <Route path="/education-industry-email-list" component={EducationIndustryEmailListPage} />
+      <Route path="/manufacturing-industry-email-list" component={ManufacturingIndustryEmailListPage} />
+      <Route path="/financial-services-email-list" component={FinancialServicesEmailListPage} />
+      <Route path="/automotive-industry-email-list" component={AutomotiveIndustryEmailListPage} />
+      <Route path="/construction-industry-email-list" component={ConstructionIndustryEmailListPage} />
+      <Route path="/energy-industry-email-list" component={EnergyIndustryEmailListPage} />
+      <Route path="/transportation-industry-email-list" component={TransportationIndustryEmailListPage} />
+      <Route path="/insurance-industry-email-list" component={InsuranceIndustryEmailListPage} />
+      <Route path="/banking-industry-email-list" component={BankingIndustryEmailListPage} />
+      <Route path="/telecommunications-industry-email-list" component={TelecommunicationsIndustryEmailListPage} />
+      <Route path="/aerospace-industry-email-list" component={AerospaceIndustryEmailListPage} />
+      <Route path="/pharmaceutical-industry-email-list" component={PharmaceuticalIndustryEmailListPage} />
+      <Route path="/agriculture-industry-email-list" component={AgricultureIndustryEmailListPage} />
+      <Route path="/mining-industry-email-list" component={MiningIndustryEmailListPage} />
+      <Route path="/logistics-industry-email-list" component={LogisticsIndustryEmailListPage} />
+      <Route path="/chemical-industry-email-list" component={ChemicalIndustryEmailListPage} />
+      <Route path="/media-entertainment-industry-email-list" component={MediaEntertainmentIndustryEmailListPage} />
+      <Route path="/food-beverage-industry-email-list" component={FoodBeverageIndustryEmailListPage} />
+      <Route path="/textile-apparel-industry-email-list" component={TextileApparelIndustryEmailListPage} />
+      <Route path="/cybersecurity-industry-email-list" component={CybersecurityIndustryEmailListPage} />
+      <Route path="/furniture-industry-email-list" component={FurnitureIndustryEmailListPage} />
+      <Route path="/sports-recreation-industry-email-list" component={SportsRecreationIndustryEmailListPage} />
+      <Route path="/legal-services-industry-email-list" component={LegalServicesIndustryEmailListPage} />
+      <Route path="/consulting-services-industry-email-list" component={ConsultingServicesIndustryEmailListPage} />
+      <Route path="/hospitality-tourism-industry-email-list" component={HospitalityTourismIndustryEmailListPage} />
+      <Route path="/real-estate-industry-email-list" component={RealEstateIndustryEmailListPage} />
+      <Route path="/retail-industry-email-list" component={RetailIndustryEmailListPage} />
+      <Route path="/education-industry-email-list" component={EducationIndustryEmailListPage} />
+      <Route path="/government-public-sector-email-list" component={GovernmentPublicSectorEmailListPage} />
+      <Route path="/nonprofit-industry-email-list" component={NonprofitIndustryEmailListPage} />
+      <Route path="/utilities-industry-email-list" component={UtilitiesIndustryEmailListPage} />
+      <Route path="/environmental-services-industry-email-list" component={EnvironmentalServicesIndustryEmailListPage} />
+      <Route path="/fitness-industry-email-list" component={FitnessIndustryEmailListPage} />
+      <Route path="/accounting-industry-email-list" component={AccountingIndustryEmailListPage} />
+      <Route path="/:technology" component={TechnologyUserListPage} />
+      <Route component={NotFound} />
+    </Switch>
+  );
+}
+
+function App() {
+  return (
+    <QueryClientProvider client={queryClient}>
+      <HelmetProvider>
+        <TooltipProvider>
+          <Toaster />
+          <Router />
+        </TooltipProvider>
+      </HelmetProvider>
+    </QueryClientProvider>
+  );
+}
+
+export default App;

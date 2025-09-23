@@ -1,0 +1,677 @@
+Marketing Analytics
+Marketing Analytics software enables user to measure and analyze a marketing campaign's performance, to increase effectiveness and optimize return on investment.
+# Products
+667
+# Vendors
+557
+# Companies
+7.2M
+# Records
+13.8M
+140 Proof
+15Five
+Aarki
+AB Tasty
+Accelevents
+Acoustic Analytics
+Acoustic Campaign
+Acoustic Lifecycle
+Acoustic Marketing Cloud
+Acquia AgilOne
+Act-On
+ActivePipe
+Ad Ebis
+Adalysis
+Adapex
+Adaptly
+AdBasis
+Adbeat
+AdCellerant
+AdChef
+AdDaptive
+AddToAny
+Adentro
+Adgistics
+Adikteev
+Adlucent
+Admantx
+Adobe (Unspecified Product)
+Adobe Analytics Cloud
+Adobe Campaign
+Adobe Digital Marketing Suite
+Adobe Discover
+Adobe DTM
+Adobe Experience Cloud
+Adobe Experience Manager Forms
+Adobe FrameMaker
+Adobe Journey Optimizer
+Adobe Marketing Cloud
+Adomik
+AdParlor
+AdPlan
+AdReady
+AdRoll
+Adsterra Network
+Adthena
+Advantage Software
+Adverity
+AdvertServe
+AdvisorStream
+Adwerx
+AerServ
+Affinio
+Affise
+AFS Analytics
+Aggregate Knowledge
+Ahalogy
+AirDNA
+Airnow
+Airship
+Albacross
+Albert.ai
+AlignAlytics
+Allbound
+Allocadia
+Allvue
+Alteryx (Unspecified Product)
+Amazon AMS
+Amazon Interactive Video Service
+Amazon SES
+Ambassador
+Amobee DMP
+Amplience
+Amplitude
+Annex Cloud
+Apollo.io
+App Radar
+AppFollow
+Apple Search Ads
+AppLift
+AppNexus
+AppTweak
+Aprimo Campaign
+Aptos Merchandising
+Arm Treasure Data
+ART19
+AS2 Gateway
+ASODesk
+Aspect Software
+atEvent
+Atmosphere TV
+AutoVitals
+Avid Interplay
+Awario
+AWeber
+AWStats
+Bannersnack
+Bannerwise
+Basis Technologies
+Batch
+Bidtellect
+Bitly
+Bizible
+Blubrry
+BlueCava
+BlueCore
+Blueshift
+Bombora (Unspecified Product)
+Bonzai
+Bonzo
+Botsplash
+BowNow
+Branch
+Brandbassador
+Bridgeline
+BuiltWith
+Buyapowa
+Buzzdeck
+C3 (Complete Control for Communities)
+Cake Marketing
+Calendly
+CallRail
+Campaign Monitor
+Campaigner
+Catvertiser
+CB Insights
+Celebrus
+Ceros
+CGI MVest
+CHEQ ClickCease
+Chorus
+Cisco Webex Events
+Cisco Webex Webinars
+Cision
+CitrusAd
+CJ Affiliate
+Clearbit
+Cleverbridge
+ClickFunnels
+ClickMeeting
+Clozd
+Combin
+Comscore
+Conductor Searchlight
+Constant Contact
+Contentsquare
+ConvertCart
+Convertize
+Convertkit
+CoSchedule Marketing Calendar
+Creatopy
+Criteo (Unspecified Product)
+Critical Mention
+CRM Creatio
+CrowdTwist
+Curalate
+Customer.io
+Cvent Event Registration
+Dailymotion
+Dapresy
+Dataium
+DealCloud
+Demandbase ABM/ABX Cloud
+DemandTec
+DemographicsPro
+DialogTech
+Dianomi
+DIGIDECK
+Digimind Intelligence
+Digimind Social Listening
+Digitaleo
+DimML
+Discuss
+Distribion
+DoJiggy
+DoubleVerify
+Drift
+DrumUp
+dunnhumby
+Duuzra
+DXS
+Dynamic Signal
+Eagle STAR
+EasyAsk
+eBay Promotions Manager
+eBay Selling Manager
+eBay Selling Manager Pro
+Elateral
+Elixir
+eMarketeer
+emetriq
+emfluence
+Engagio
+Everest
+Evergage
+EveryoneSocial
+eVestment
+Evolok
+evolve24
+Exactag
+ExpertSender
+ExpertVoice
+Extend
+Eyeota
+EZ Texting
+Facebook Audience Network
+Factual
+FanBridge
+Fanplayr
+Fathom
+FinancesOnline
+Fision
+Flexitive
+Flite
+Flodesk
+Flybits
+FocalScope
+Foleon
+Folloze
+Force24
+Fospha
+Foursixty
+Freshmarketer
+Frosmo
+Funnel
+GaggleAMP
+Gamooga
+GE Proficy Smart Factory MES
+Gemius
+Genesys Engage on-premises
+Genesys PureEngage on-premises
+Genus AI
+Geonetric
+GetApp
+GetEmail.io
+GigaOM
+Glofox (Unspecified Product)
+GoodFirms
+Google Ad Manager
+Google AdMob
+Google Adometry
+Google Ads Conversion
+Google Ads Remarketing
+Google Analytics
+Google Analytics 360
+Google Display & Video 360
+Google Dynamic Remarketing
+Google Firebase In-App Messaging
+Google Floodlight
+Google Marketing Platform
+Google Plus One
+GoSquared
+GoStats
+Gravitec
+GreenRope CRM
+Greenrope Marketing Suite
+GWI
+Haravan
+HawkSearch
+HCL Unica
+HCL Unica Campaign
+HCL Unica NetInsight
+Headway
+HeapAnalytics
+Helixa
+Higher Logic
+Hive9
+Hotjar
+HubSpot (Unspecified Product)
+Hubspot Sales Automation
+Huggy
+Hull
+HypeAuditor
+iAdvize
+IBM CustomerInsight
+IBM ExperienceOne
+IBM Watson Marketing
+IBM Watson Marketing Insights
+IBM Watson Personality Insights
+IDC
+IHS Markit (Unspecified Product)
+iMIS
+Impact.com
+Influencity
+Infusionsoft
+Innovid
+inSided
+Insider
+Integral Ad Science
+Intellimize
+Intrado (Unspecified Product)
+Intricately
+iPinYou
+iProspect
+iSpot.tv
+Ivalua Spend Analysis
+Ivalua Strategy & Analytics
+iVideoSmart
+JD Edwards EnterpriseOne One View
+Jiminny
+Julius with HYPR
+Jumplead
+Kajabi
+Kameleoon
+Kantar
+Keyhole
+Khoros (Unspecified Product)
+Kiip
+Kiosked
+Klaviyo
+Klue
+Knak
+Knowledge360
+Kochava
+Kompyte
+Konnektive CRM
+Later
+Lead Forensics
+Leadinfo
+LeadIQ
+Leadpages
+LeadsBridge
+Leadsius
+LevelEleven
+LiftIgniter
+LinkedIn Ads
+Lionbridge
+ListFinder
+Locu
+Loopio
+Lotame (Unspecified Product)
+Lotame for Advertisers
+Lucidpress
+Lucky Orange
+Madison Logic
+magnews
+Magnite
+MailerLite
+MailMunch
+Mapp Cloud
+Marchex
+Market Logic
+Marketing 360
+marketingQED
+Marketo
+Marketo Engage
+Marketron
+MarketTools
+MatchCraft
+Matterkind
+Mautic
+Medallia Digital
+Medallia Experience Cloud
+Mediahawk
+Meetrics
+Memberium
+Mentionlytics
+MerchantAdvantage
+MessageGears
+Meta Ads
+MetaCommerce
+Metadata.io
+MetaTrader 5
+MetrixLab
+Micro Focus DecisionCenter
+Microsoft Dynamics 365 for Marketing
+Mintent
+Mix
+Mobile Action
+Moloco
+Monitus
+Moosend
+Morning Consult
+Motigo Webstats
+Movable Ink
+MRP Prelytix
+MyThings
+Nanigans
+Nativo
+Netcore
+Netcore Email API
+NetHunt
+Netmining
+Netpeak Spider
+Netsertive
+NetSuite Bronto
+NeverBounce
+NewTek TriCaster
+Nielsen Ad Intel
+Nielsen Attribution
+Nielsen Digital Ad Ratings
+Nimbata
+NING Interactive
+Noble Outbound
+Noosh
+NPD SupplyTrack
+Nuffnang
+Numerator
+Octane AI
+Odoo CRM
+Offer18
+Okendo
+Omeda
+OneStat
+Open Web Analytics
+OpenText Experience Platform
+OpenText TeamSite
+OpenText Web Site Management
+OpenWeb
+Optimatic
+Oracle AddThis
+Oracle BlueKai Data Management Platform
+Oracle Contextual Intelligence
+Oracle Datalogix
+Oracle Eloqua
+Oracle Marketing
+Oracle Maxymiser
+Oracle Moat Analytics
+Oracle Responsys Interact
+Oracle Siebel Loyalty Management
+Oracle Siebel Web Marketing
+Oracle Social Cloud
+Oracle Subscription Management
+Oracle Validated Integration
+Oracle WebCenter Sites
+OrderGroove
+Oribi
+ORM Technologies
+OurCrowd
+OutboundEngine
+OWOX BI
+Paciolan
+Pageflex
+Partnerize
+Peatix
+Pega BPM
+Perform[cb]
+Performable
+Perkville
+Persado Motivation AI Platform
+PicReel
+Pike13
+PipeCandy
+PIPZ
+Pitchbox
+Pixlee
+PlaceIQ
+Placeit
+Planhat
+Plannuh
+PopBookings
+PosterMyWall
+Postmark
+Postscript
+Prebid
+Profitero
+Promomash
+PromoRepublic
+PromoteIQ
+Propago
+Publer
+Q4
+Qualifio
+Qualtrics XM
+Quantcast
+Quartile
+Qubit Customer Influence Engine
+quintly
+Quiq
+Quisma
+Rafflecopter
+Rakuten Linkshare
+RankMyApp
+Raven Tools
+RD Station
+Reachdesk
+ReactX
+Realytics
+Rebrandly
+Recart
+Recollective
+Reevoo
+Refersion
+Releasd
+Renderforest
+Reputation.com
+Respondent
+RetailData
+RevBase
+ReviewBuzz
+RiteTag
+ROI Hunter
+Roistat
+RollWorks
+Roofstock
+RTB House
+RudderStack
+Rybbon
+S&P Capital IQ Pro
+Sailthru
+Salecycle
+SalesDirector.ai
+Salesforce DMP
+Salesforce Interaction Studio
+Salesforce Marketing Cloud
+Salesforce Pardot
+Salesforce Sales Engagement
+Salesforce Social Studio
+SAP Customer Care and Service (CCS)
+SAP Customer Data Platform
+SAP Demand Signal Management
+SAP Emarsys Customer Engagement
+SAP for Media
+SAP Hybris Cloud for Customer
+SAP Hybris Social Engagement Cloud
+SAS Marketing Operations Management
+Schema App
+ScreenCloud
+Second Street
+Seedtag
+SeeWhy
+SegMetrics
+SendGrid
+SendinBlue
+SEOptimer
+SharpSpring
+SheerID
+Shopalyst
+ShortStack
+Showpad Content
+Sideqik
+Siebel Enterprise Marketing
+Siebel Marketing Resource Management
+Simon Data
+Singular
+Sitecore Experience Commerce
+Sitejabber
+SiteSpect
+Sizmek
+Skai
+SlickText
+Slido
+Smaply
+Sniply
+Sociabble
+Social Seeder
+Socialshaker
+SocialToaster
+Software Advice
+Sojern
+Solocal
+Sortlist
+Sovrn
+SparkToro
+Spectrio
+Spekit
+Spektrix
+Splio (Unspecified Product)
+Splio Marketing Automation Platform
+Spotler
+SproutLoud
+SPS Analytics
+Squeezely
+StackAdapt
+Stackla
+Stackline
+StoneShot
+Storyblocks
+Strossle
+StructuredWeb
+Survicate
+Suzy
+Swell Rewards
+Swrve
+Synthesio
+Synup
+Tableau Online
+Tailwind
+Talkwalker
+Talon.One
+Tango Card
+TapClicks
+Tapjoy
+Tatango
+Teads
+Tealium AudienceStream CDP
+Tealium iQ Tag Management
+TeamGantt
+TechTarget Priority Engine
+Terapeak
+Terminus
+Terminus Account Hub
+TextMagic
+Thomas WebTrax
+Throtle Data Onboarding
+Ticket Tailor
+TINT
+TinyURL
+Tito
+ToneDen
+Topsy
+Traackr
+TrackMaven
+Tradedoubler
+Treasure Data
+Treez
+TrenDemon
+Trialfire
+Triberr
+Triblio
+Tripleseat
+Trustpilot
+TubeBuddy
+Tumblr
+Twilio Segment
+Twilio SendGrid Marketing Campaigns
+Twitter Analytics
+Unbounce
+Ungerboeck
+Uniqode
+Upaknee
+Upfluence
+Upland Adestra
+Upland Software (Unspecified Product)
+UPshow
+Uptempo
+Userpilot (Unspecified Product)
+UserReplay
+uSocial
+Vero
+Versium
+Verve Wireless
+VideoAmp
+Vidyard
+Vinculum
+Viraltag
+Visitor Queue
+Visual Website Optimizer
+Vivial
+Vizergy
+Vocus
+W3Counter
+Waalaxy
+Waitwhile
+Wattpad
+Webtrends
+Webtrends Optimize
+WebVisor
+WhatCounts
+WhatRunsWhere
+WildJar
+Woopra
+WriterAccess
+WysiStat
+Xandr
+Yahoo! Web Analytics
+Yieldbot
+Yieldmo
+Yodeck
+YouGov Profiles
+YourAmigo
+Zeotap
+zeroheight
+Zignal Labs
+Zilliant
+ZINFI
+Zoomd
+Zuko

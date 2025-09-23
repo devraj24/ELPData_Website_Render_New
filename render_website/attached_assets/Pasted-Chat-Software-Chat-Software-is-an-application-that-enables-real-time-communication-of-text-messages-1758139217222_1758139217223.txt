@@ -1,0 +1,174 @@
+Chat Software
+Chat Software is an application that enables real-time communication of text messages over the Internet between a sender and receiver.
+# Products
+164
+# Vendors
+140
+# Companies
+1.3M
+# Records
+1.8M
+3cinteractive
+ActivEngage
+Ada AI Chatbot
+Alive5
+Amazon Connect
+Amazon Lex
+Ameyo
+AnswerConnect
+ApexChat
+Applozic
+Asana
+Avochato
+AWS Chatbot
+Basecamp
+Bitrix24
+Bold360
+BoldChat
+Botnation AI
+BotPenguin
+Carchat24
+Cbox
+Chatfuel
+Chatlio
+Chatra
+Chatwork
+Clickatell
+ClickDesk
+CometChat
+Comm100
+Convoso
+Crisp
+Customers.ai
+Deskpro
+DialedIn
+Discourse
+Donut
+Drift
+eGain (Unspecified Product)
+eGain Chat
+Empirix Contact Center Assurance
+Epic Secure Chat
+FAQ Bot
+Flock
+Flocknote
+FocalScope
+Formilla
+FreshChat
+Front
+FuseDesk
+Gather
+Genesys Engage
+Genesys Engage cloud
+Genesys PureCloud
+Genesys PureEngage
+Genesys PureEngage cloud
+Google Chat
+Google Contact Center AI
+Google Firebase Cloud Messaging
+GoSquared
+Gubagoo
+HCL Notes
+HCL Verse
+HelpCrunch
+HelpOnClick
+Helpshift
+HipChat
+Hitsteps
+Huggy
+Hustle
+iAdvize
+IBM Watson Assistant
+Inbenta
+Instabot
+Intercom
+JivoChat
+Kenect
+Kixie
+Kommunicate Live Chat
+Landbot
+LINK Mobility
+Live800
+LiveChat
+LiveChat ChatBot
+LiveHelpNow
+LivePerson (Unspecified Product)
+LivePerson Automotive
+LivePerson Conversational Cloud
+LiveZilla
+ManyChat
+Mattermost
+Medallia Zingle
+Messagepoint
+Microsoft Copilot
+Microsoft Skype
+Microsoft Skype GroupMe
+MightyText
+Moxie Software
+My LiveChat
+Naver Works
+Netcall Liberty Platform
+NICE Call Recording
+Nuance Nina
+Olark
+OpenScape Cloud Contact Center
+Orum
+Podium
+Pubble
+Pure Chat
+QuickBlox
+Re:plain
+Reamaze
+Recart
+RedHelper
+Redtail CRM
+Respond.io
+RingCentral Glip
+Rocket.Chat
+Salesforce Live Agent
+Salesforce.com Chatter
+Salesforce.com Desk.com
+SearchBlox (Unspecified Product)
+SendBird
+Sender
+ServiceNow Virtual Agent
+Signal Messenger
+Slack
+Smartsupp
+Snapchat
+SnapEngage
+Social Intents
+Sparkcentral
+Sunshine Conversations
+Synthetix
+TargetX
+tawk.to
+TechRadium
+Telegram
+Tellme Networks
+TextUs
+TIBCO tibbr
+Tidio
+Tile Desk
+Trengo
+Twilio Video
+Upstream Works
+Userlike
+Velaro
+Verint Unified VOC
+Virtual Spirits
+Vivocha
+Volusion LiveChat
+Voxer
+WebsiteAlive
+WhatsApp
+Whispir
+WhosOn
+Wix Answers
+Workplace by Facebook
+Xenialab
+Yellow Messenger
+Zendesk (Unspecified Product)
+Zendesk Chat
+Zoho SalesIQ
+Zopim Chat

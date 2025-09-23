@@ -1,0 +1,250 @@
+3D Modeling software is a class of 3D computer graphics software used to produce 3D models.
+# Products
+241
+# Vendors
+134
+# Companies
+1.4M
+# Records
+3.2M
+3D Systems
+3DCoat
+3Delight
+3DEqualizer
+ADAPT
+ADAPT-Builder
+Adobe After Effects CC
+Adobe Creative Suite
+Adobe Dimension CC
+Adobe Dreamweaver
+Adobe Fuse CC
+Adobe Illustrator
+Adobe Substance 3D
+AGi32
+AGTEK
+AirTOP
+Alibre Design
+ALLPLAN
+Altair HyperView
+Altair Inspire
+Altair SimLab
+Amazon Sumerian
+Ansys EnSight
+Ansys Lumerical FDTD
+Ansys SCADE Display
+Ansys Sherlock
+Ansys SpaceClaim
+Ansys SPEOS
+Ansys Twin Builder
+Apple iPod
+ArcGIS Earth
+Arnold Renderer
+Artec Studio
+Artlantis
+AutoCAD
+AutoCAD LT
+Autodesk 3ds Max
+Autodesk A360
+Autodesk Advance Steel
+Autodesk Alias
+Autodesk Arnold
+Autodesk BIM 360
+Autodesk CFD
+Autodesk Civil 3D
+Autodesk Eagle
+Autodesk FBX
+Autodesk FormIt
+Autodesk Fusion 360
+Autodesk InfoWater Pro
+Autodesk InfoWorks ICM
+Autodesk InfraWorks
+Autodesk Inventor
+Autodesk Maya
+Autodesk MotionBuilder
+Autodesk Mudbox
+Autodesk Navisworks
+Autodesk Netfabb
+Autodesk PowerInspect
+Autodesk PowerShape
+Autodesk ReCAP
+Autodesk ReCap Pro
+Autodesk Revit
+Autodesk Softimage
+Autodesk Structural Bridge Design
+Autodesk VRED
+AutoDesSys (Unspecified Product)
+AutoTURN
+AVEVA E3D Design
+AVEVA PDMS
+Bentley AutoPIPE
+Bentley AutoPLANT
+Bentley Descartes
+Bentley GEOPAK
+Bentley PowerCivil
+BIM Track
+Biteable
+Blackmagic Davinci Resolve
+Blender
+Bluebeam Revu
+Boris RED
+Cadsoft
+CalculiX
+CARAT
+Chief Architect
+Cinebench
+CityCAD
+CLO3D
+Corel
+Corona Renderer
+CoViz 4D
+CrazyBump
+Creo Parametric
+Dalux (Unspecified Product)
+Dassault 3DEXCITE
+Dassault 3DVIA
+Dassault Dymola
+Dassault ENOVIA
+Dassault Systemes (Unspecified Product)
+Daz 3D
+Delcam
+DesignCAD
+DIANA Finite Element Analysis
+EasternGraphics (Unspecified Product)
+EFI (Unspecified Product)
+Enscape
+eQuest
+FactoryCAD
+FARO SCENE
+FlexSim
+FMOD
+form-Z
+Fred Optical Engineering Software
+FreeCAD
+FumeFX
+GeoFrame
+GrabCAD
+GT-SUITE
+Houdini
+HydroGeosphere
+iClone
+IMAGINiT Clarity
+imos iX
+Intergraph
+Intergraph Smart 3D
+IronCAD
+Isogen
+Isogen Publisher
+Juju
+Kerkythea
+KeyShot
+KISSsoft
+Klaes
+Kujiale
+Leapfrog (Unspecified Product)
+Leapfrog Geo
+Leica Cyclone
+Lighting Reality
+LightWave 3D
+Line Designer
+LogiKal
+Lumion
+magicplan
+Maptek Vulcan
+Markforged
+Marmoset Toolbag
+Matterport
+Maxon
+Maxon BodyPaint 3D
+Maxon Cinema 4D
+Maxwell Render
+Mesa 3D
+Meshmixer
+midas Civil
+Mixamo
+MODO
+Moovly
+MSC Adams
+MSC Software
+Nuke
+NVIDIA GeForce
+NVIDIA Isaac SDK
+NVIDIA Mental Ray
+NVIDIA RTX
+OctaneRender
+Onshape
+OpenFlows WaterGEMS
+OptiTex
+OrCAD Library Builder
+Palette CAD
+ParaView
+PFTrack
+Pixar RenderMan
+PlanRadar
+PowerFLOW
+PREEvision
+Process Simulate
+Procore BIM
+ProKitchen
+PTC Creo
+PTC Creo Elements/Direct
+QFloors
+Quixel
+RailClone
+RealFlow
+Redshift
+Revizto
+Rhino Grasshopper
+Rhinoceros
+RIB Software iTWO
+RISA
+RISA-3D
+RockWorks
+RocPlane
+RSPile
+SAP 3D Visual Enterprise
+SCIA
+SCIA Engineer
+Settle3
+Shapr3D
+Siemens Solid Edge
+Simulink
+Sketchfab
+SketchUp
+SketchUp Pro
+SmartSketch
+SpeedTree
+Spline
+Stabicad
+Studio RM
+SWedge
+TAITherm
+Tekla
+Tekla Tedds
+Teowin
+Tinkercad
+TraceParts
+TracePro
+Trane TRACE
+Trane TRACE 3D
+Trane TRACE 700
+Trapcode Suite
+Trimble EC-CAD
+Trimble PipeDesigner 3D
+Unreal Engine
+V-Ray
+VECTIS
+Vectorworks
+Vertex BD
+Visual Components
+Vizrt
+Vuforia Studio
+VXelements
+VXmodel
+Wave.video
+windPRO
+WITNESS Horizon
+Wwise
+Xpedition
+xTex
+ZBrush
+Zemax OpticStudio

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!-- Main Pages -->
+<url>
+  <loc>https://www.elpdata.com/</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/about</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/contact-us</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<!-- Technology User Lists -->
+<url>
+  <loc>https://www.elpdata.com/sap-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/salesforce-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/cisco-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/workday-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/oracle-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/aws-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/vmware-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/microsoft-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/ibm-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/google-cloud-users-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<!-- Email Lists -->
+<url>
+  <loc>https://www.elpdata.com/ceo-email-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/cto-email-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/cfo-email-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<!-- Industry Email Lists -->
+<url>
+  <loc>https://www.elpdata.com/healthcare-industry-email-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/technology-industry-email-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/financial-services-email-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/manufacturing-industry-email-list</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<!-- Category Pages -->
+<url>
+  <loc>https://www.elpdata.com/technology-lists</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/crm-technologies</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/erp-technologies</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/cloud-computing-technologies</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<!-- Solution Pages -->
+<url>
+  <loc>https://www.elpdata.com/marketing-solutions</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/data-services</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.elpdata.com/data-solutions</loc>
+  <lastmod>2025-06-23</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+</urlset>

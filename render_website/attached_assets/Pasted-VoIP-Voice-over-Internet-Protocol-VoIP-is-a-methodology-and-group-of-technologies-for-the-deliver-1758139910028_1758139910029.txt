@@ -1,0 +1,119 @@
+VoIP
+Voice over Internet Protocol (VoIP) is a methodology and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol networks. VoIP involves sending voice information in digital form in discrete packets rather than by using the traditional circuit-committed protocols of the public-switched telephone network and thereby avoiding the tolls charged by ordinary telephone service.
+# Products
+109
+# Vendors
+65
+# Companies
+237.1K
+# Records
+357.2K
+3CX
+8x8 (Unspecified Product)
+8x8 Fuze
+Alcatel-Lucent OmniPCX
+Alcatel-Lucent OpenTouch
+Alcatel-Lucent OXO Connect
+AltiGen Enterprise Cloud PBX
+Amazon Chime
+AT&T Centrex
+AudioCodes
+Avaya Aura Contact Center
+Avaya Desktop Phones
+Avaya Digital Deskphone
+Avaya IP Office
+Avaya IVR
+Bersoft
+BlackBerry
+Brekeke PBX
+BroadVoice
+Burrelles
+Calix C7
+Centile ISTRA
+Cisco 7900 Series IP Phones
+Cisco BroadWorks
+Cisco Business Edition 6000
+Cisco Desk Series
+Cisco IP Phones
+Cisco SPA9000
+Cisco Unified Border Element (CUBE)
+Cisco Unified IP Phone 7900 Series
+Cisco Unified IP Phones 6900
+Cisco Unified IP Phones 7900
+Cisco Unified IP Phones 9900
+Cisco VoIP
+Cisco VoIP PBX
+Cisco Webex Contact Center
+Comptel
+Dialpad
+Digium
+Elluminate
+Engage Hub
+Ericsson Cloud IMS
+FreePBX
+Fusion Connect
+Genesys PureConnect
+Granite Merged Voice
+HPE NBX
+HPE NBX 100
+HPE NBX V3000
+Huawei (Unspecified Product)
+Jive Communications
+Kerio
+Kunnect
+Microsoft Lync Enterprise Voice
+Microsoft Skype for Business Cloud PBX
+Mitel (Unspecified Product)
+Mitel 5300
+Mitel Aastra
+Mitel Pointspan
+Mitel Sky
+MiVoice Office 250
+Motorola
+MPU5
+NetCracker
+NetIQ Vivinet Assessor
+Nextiva
+Nokia Session Border Controller
+Nokia TAS
+Nortel
+Nortel DMS
+Nortel Meridian
+Nortel Norstar
+Nuance IVR Tooling Suite
+Ooma
+OpenScape Voice
+OpenStage
+Panasonic IP Phones
+Panasonic IP-PBX
+Phone.com
+Phonero
+Poly Clariti
+Poly VVX Series
+Rauland
+ReadyTalk
+RingCentral
+RingCentral Office
+Samsung RAN (Radio Access Network)
+SAP Contact Center
+ShoreTel Sky Communicator
+Siemens HiCom 300
+Siemens HiPath
+SpectrumVoIP
+Star2Star
+SureMDM
+Switchvox
+Talkdesk
+Telcel
+Tellme Networks
+Telnyx (Unspecified Product)
+Toshiba VIPedge
+Twilio Voice
+Verizon VoIP
+Voalte
+Voalte One
+Vocollect Voice DC
+Vonage (Unspecified Product)
+WHOOP
+Zendesk Talk
+ZipWhip

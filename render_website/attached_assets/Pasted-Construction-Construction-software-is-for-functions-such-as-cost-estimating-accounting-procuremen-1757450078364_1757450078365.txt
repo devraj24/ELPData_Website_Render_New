@@ -1,0 +1,194 @@
+Construction
+Construction software is for functions such as cost estimating, accounting, procurement, project management and scheduling in regards to building or assembling of a structure or physical infrastructure.
+# Products
+184
+# Vendors
+124
+# Companies
+123.7K
+# Records
+202.3K
+AccuBuild
+Acculynx
+Active Takeoff
+ADAPT
+AGTEK
+AroFlo
+Asite (Unspecified Product)
+Assignar
+Autodesk Constructware
+AVEVA Bocad
+B2W Estimate
+B2W Track
+Bentley ConstructSim
+Bentley OpenSite
+Bentley ProSteel
+Bentley ProStructures
+Bentley RAM
+Bentley RAM Concept
+Bentley RAM Connection
+Bentley SITEOPS
+Bluebeam Revu
+BuilderStorm
+BuilderTREND
+BuildingBlok
+BuildingConnected
+BuildTools
+BuildTopia
+CADPIPE
+Cadsoft
+CAESAR II
+Cheops
+Chief Architect
+Clear Estimates
+CMiC
+CMiC FIELD
+CMiC Project Controls
+CoConstruct
+COINS
+Computer Guidance Corporation
+ComputerEase
+ConEst
+ConEst IntelliBid
+ConstructBuy
+ConstructConnect
+Contractors Cloud
+Corecon
+Covadis
+CSG Plus
+Databuild
+Dataforma
+DDS-CAD
+Deltek e-SPECS
+DesignBuilder
+DESITE BIM
+DESTINI Estimator
+dRofus
+e-Builder Enterprise
+EagleView Property Reports
+EagleView Reveal
+EDGE Estimator
+Elite Software HVAC Solution
+eSUB
+eTakeoff
+FastPIPE
+Fieldlens
+Fieldwire
+Foundation Software
+Fuzor
+GCPay
+Gradework
+GT STRUDL
+GuildQuality
+Hard Dollar
+HCSS
+HCSS HeavyBid
+HCSS HeavyJob
+HoloBuilder
+iAuditor
+InEight (Unspecified Product)
+InEight Estimate
+InEight SCH
+Infor Construction
+Isogen
+Isogen Publisher
+iSqFt
+iTWO CostX
+JOBPOWER
+JOBPROGRESS
+Jonas Construction
+Knowify
+LetsBuild
+Levelset
+MagiCAD
+magicplan
+Mark Systems IHMS
+McCormick Systems
+Microsoft Dynamics SL
+Mitek BuilderMT
+mJobTime
+MOCA Systems Touchplan
+Multivista
+Neodata
+Nomitech CostOS
+NoteVault
+On Center
+Oracle BidContender
+Oracle Primavera Contract Management
+Oracle Primavera Submittal Exchange Cloud Service
+Oracle Skire
+ORCA AVA
+Owner InSite
+Pantera Tools
+Paskr
+Penta Technologies
+PlanHub
+PlanSwift
+PM Vitals
+Praesto AE
+PrebuiltML
+ProContractor
+Procore
+Procore BIM
+Procore Invoice Management
+Procore Project Management
+ProEst
+Projectmates
+PV Elite
+Pype
+Qnect
+Quick Bid
+QuickMeasure OnScreen
+QuoteSoft
+Raken
+RedTeam
+Relatics
+RIB MTWO
+RIB Software iTWO
+RISA
+RockSolid MAX
+RSMeans Data Online
+Sage 100 Contractor
+Sage 300 Construction and Real Estate
+Sage Construction Anywhere
+Sage Estimating
+SAP Equipment & Tools Management
+SAP2000
+SDS/2
+Sefaira
+SharpeSoft
+SignOnSite
+SiteBoss
+Smart Contractor
+SmartBid
+Solibri
+Spectrum
+STACK
+StructionSite
+STRUCTURE
+SYNCHRO Pro
+Takeoff Live
+Topco MAGNET Field
+Tradify
+Trane TRACE
+Triax
+Trimble Accubid
+Trimble Accubid ChangeOrder
+Trimble Construction One
+Trimble DuctDesigner 3D
+Trimble EC-CAD
+Trimble PipeDesigner 3D
+Trimble Prolog
+Trimble SysQue
+Trimble WinEst
+UDA ConstructionOnline
+UDA ConstructionSuite
+Vectorworks
+Ventus
+Viewpoint
+Viewpoint For Estimating
+Viewpoint Vista
+ViewpointOne
+Vision InfoSoft
+Xactware (Unspecified Product)
+Zutec

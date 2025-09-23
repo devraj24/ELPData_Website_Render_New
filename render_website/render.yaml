@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: elpdata-website
+    env: node
+    plan: starter
+    buildCommand: npm run render-build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: elpdata-db
+          property: connectionString
+    autoDeploy: false
+

@@ -1,0 +1,112 @@
+
+/
+Collection Details
+Procurement
+Procurement software is a suite of business applications that enable organizations to automate the processes of procurement, purchasing, and material inventory supply levels and tracking.
+# Products
+99
+# Vendors
+50
+# Companies
+34.5K
+# Records
+62K
+A2000 Software
+Azure Marketplace
+Basware Business Consulting
+Basware e-Procurement
+Basware Procure-to-Pay
+Basware Source to Pay
+Basware Verian
+Beeline Services Procurement
+Bid Express
+BirchStreet
+Bonfire
+BravoSolution
+Cobblestone
+Conga Contracts
+Coupa Advantage
+Coupa AI Classification
+Coupa Contract Management
+Coupa Procurement
+Coupa Spend Analysis
+Coupa Spend360
+DAT Load Board
+DispatchTrack
+E2open Procurement & Supply Management
+Elementum
+GEP (Unspecified Product)
+GEP SMART
+Google Cloud Marketplace
+Hubwoo
+IBM Emptoris Contract Management
+Ion Wave
+Ivalua (Unspecified Product)
+Ivalua Procure-to-Pay
+Ivalua Procurement
+Ivalua Purchase Orders
+Ivalua Purchase Requisitions
+JAGGAER Direct
+JAGGAER eProcurement
+JAGGAER Indirect
+JAGGAER ONE
+JAGGAER Spend Analytics
+JD Edwards World Procurement Management
+LogicSource
+Mercateo
+Microsoft Procurement
+Moglix
+Newtron
+Ninja Van
+Oneflow
+Onventis
+Oracle Advanced Procurement
+Oracle Contract Lifecycle Management (CLM)
+Oracle iProcurement
+Oracle Procurement and Spend Analytics
+Oracle Procurement Cloud
+Oracle Purchasing
+Oracle Self-Service Procurement Cloud
+Oracle Services Procurement
+Oracle Supplier Lifecycle Management
+Oracle Textura
+Oxalys
+Peoplesoft eProcurement
+PeopleSoft Purchasing
+PlanetBids
+Precoro
+Proactis Contract Management
+Proactis Procurement
+Proactis Procurement Control
+Proactis Sourcing
+ProviderSoft
+PunchOut Catalogs
+ReQlogic
+SAP Ariba Procurement Mobile App
+SAP Ariba Snap
+SAP Ariba Spend Analysis
+SAP Commodity Management
+SAP Procurement
+SAP Service Parts Management
+Scout RFP
+Sedna
+ServiceNow Procurement Service Management
+Sievo
+SpendMap
+SynerTrade
+SynerTrade Supplier Management
+Tenstreet
+Tradeshift
+Transcepta
+VMware Volume Purchasing Program
+web3
+Yardi Procure to Pay Suite
+Zip
+Zip Intake-to-Procure
+Zycus
+Zycus Contract Management Software - iContract
+Zycus eProcurement Software
+Zycus Procure-to-Pay Software
+Zycus Purchase Order Management Software
+Zycus Spend Analysis Software
+Zycus Strategic Sourcing Suite

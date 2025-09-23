@@ -1,0 +1,407 @@
+EHR/EMR
+Electronic Health Records (EHR) or Electronic Medical Records (EMR) are electronic versions of a patient's medical history, that are maintained by the medical provider over time, and may include all the key administrative clinical data relevant to that person's care.
+# Products
+397
+# Vendors
+297
+# Companies
+85.1K
+# Records
+196.8K
+ABELMed
+AccuCare
+Accumedic
+Acmeware
+Acumen EHR
+Advanced Data Systems (Unspecified Product)
+AdvancedEHR
+AdvancedMD
+Agastha
+AGFA Hexagone
+AGFA ORBIS
+Ahi QA
+Airstrip
+ALERT Life Sciences Computing
+AllegianceMD
+Alleva EMR
+AllMeds
+Allscripts (Unspecified Product)
+Allscripts Canopy
+Allscripts Eclipsys
+Allscripts Misys
+Allscripts MyWay
+Allscripts STAR
+Allscripts TouchWorks
+Altera Paragon
+Altera Sunrise
+Amazing Charts
+Amazing Charts EHR OB/GYN
+AmkaiCharts
+Aprima EHR
+Aramark ISIS Pro
+Askesis PsychConsult Provider
+athenaClinicals
+Athenahealth (Unspecified Product)
+Autumn8
+Avreo interWORKS
+aXigate
+Azalea EHR
+Azalea Health
+Azzly
+BackChart
+BestNotes
+BlueStep
+Bradoc
+Cantata Health EHR
+CareCloud
+CareConnect Epic EHR
+CareLogic EHR
+Caremerge
+CareSuite
+CareVoyant
+Casamba
+CattailsMD
+Cedaron
+Cerner Apache
+Cerner CareAware
+Cerner Dynamic Documentation
+Cerner Fetalink
+Cerner Lights On Network
+Cerner Millennium
+Cerner Multum
+Cerner PathNet
+Cerner PowerChart
+Cerner PowerChart Ambulatory
+Cerner Soarian EHR
+Cerner Unite
+CGM Clinical
+CGM webEHR
+ChARM EHR
+ChartLink
+ChartLogic
+ChartLogic EHR
+ChartMaker
+ChipSoft
+Chiro QuickCharts
+Chiro8000
+ChiroCloud
+ChiroTouch
+ChiroWrite
+ClearCare
+Clicktate
+CliniComp
+ClinicTracker
+CodoniX
+Compulink
+Connexall
+COPRA PDMS
+Cortellis
+CPSI
+Credible EHR
+Criterions EHR
+Crystal PM
+CureMD
+cyberREN
+Cyfluent
+DentiMax
+DigiDMS EHR
+Digital Innovation NTRACS
+DocLinks
+DocTalk
+Doctorsoft
+DocuTAP
+Dr. Cloud EMR
+drchrono
+DrFirst (Unspecified Product)
+Drs Enterprise
+DXC Lorenzo
+eClinicalWorks
+eClinicalWorks CCMR
+eClinicalWorks EHR
+eClinicalWorks healow
+eDerm EHR
+Edifecs
+EHR 24/7
+EHR Your Way
+ehrTHOMAS
+Elekta MOSAIQ
+eMDs (Unspecified Product)
+EMedicalNotes
+eMedRec
+EMIS Web
+EMR-Bear
+EMRlogic
+Encite
+EncounterPRO
+Epic Beacon
+Epic Cheers
+Epic EHR
+Epic MyChart
+Epic MyChart Bedside
+Epic Prelude
+Epic Radiant
+Epic Systems
+EpicCare
+EpicCare Ambulatory
+EpicCare Inpatient
+Epitomax EHR
+ESO EHR
+Experity
+Exscribe
+EyeDoc EHR
+EyeMD EMR
+ezEMRx
+EZnotes
+Falcon Silver
+FDB MedKnowledge
+Freeland Systems
+GE Carecast
+GE Centricity
+GE Centricity Perinatal
+GE Edison Datalogue
+GEMMS ONE
+GeniusDoc EHR
+Genoptix
+gGastro
+GlaceEMR
+Glintt HS
+Gold Standard Drug Database
+Greenway Health (Unspecified Product)
+Greenway Vitera
+HCS eMR
+Healthix
+Hello Health
+Herfert Software
+i2iTracks
+IBM MarketScan Research Databases
+ICANotes
+iHelix Hospital
+iMDsoft MetaVision
+iMed EMR
+IMS MAXIMS
+Infomedika Evolution EHR
+InPracSys
+Insight EMR
+Inspirata (Unspecified Product)
+InSync Healthcare
+InteliDOX
+IntelleChartPRO
+Intellicure
+IntelliDoseTxM
+Intergy
+InterSystems TrakCare
+IntraNexus
+iPatientCare
+iSALUS
+Juvonno
+Kareo
+KeyChart EMR
+Kinnser
+KSYOS
+Kyruus Health
+Lexicomp Online
+LifeCare PCA
+Lumeris
+Lyra Health
+M-CrossWay
+MacPractice
+MagView
+MasterCare EMR
+MatrixCare
+MaximEyes.com
+McKesson iKnowMed
+McKesson Value Pathways
+MD Logic
+MD Synergy
+MD-Reports
+MDLand iClinic
+MDoffice
+MDRhythm
+MDVita EHR
+Medasys DxCare
+Medaxion
+MedcomSoft Record
+Medent
+Medflow
+Medgen EHR
+MEDHOST (Unspecified Product)
+MEDHOST eMAR
+Medi-Span
+Medical Mastermind
+MedicalMime
+Medicfusion
+MedicsCloud EHR
+MedicsCloud Suite
+MedicsPM
+MedInformatix
+MediSYS
+Meditab IMS EHR
+MEDITECH 6.0
+MEDITECH 6.1
+MEDITECH Client/Server
+MEDITECH EHR
+MEDITECH Expanse
+MEDITECH Magic
+MEDITECH Scanning and Archiving
+Mediture
+MedLedger
+Medsphere
+Medstreaming
+MedSym Solutions
+Medtronic Paceart
+Medworxs
+Methasoft
+MicroMD
+mMedica
+Modernizing Medicine
+ModMed-EMA
+ModuleMD
+MPN Eclipse
+My Vision Express
+myAvatar
+myCare iMedicWare EHR
+myCare Integrity EMR
+myEvolv
+myUnity
+Netsmart
+Netsmart Post Acute Care
+Nextech EMR
+NextGen Healthcare (Unspecified Product)
+NextGen Office
+Nightingale
+Novarad Ncompass
+Nuance Clintegrity 360 Quantim
+Nuance PowerShare
+NueMD
+Office Ally
+Office Practicum
+OmniMD
+ONCOCHART
+OncoEMR
+One Medical
+OpenEMR
+Optum Population Health Management
+OptumInsight
+Orion Health Consult
+Pak-EDGE
+PARADIGM EHR
+Patagonia Health
+Patient Chart Manager EHR
+PatientClick
+PatientKeeper
+PatientNOW
+PayDC
+PBOmd
+PCC EHR
+PCIS GOLD
+PDS MDsuite EHR
+Perfect Care EHR
+PerfectServe
+Philips Tasy
+Philips Visicu
+Phoenix Ortho
+Phreesia
+Picis Ambulatory EMR
+PIMSY EHR
+Pixeon
+PMP Gateway
+PointClickCare
+Practice Fusion
+Practice Maximus
+Practice Partner
+Practice Pro
+PracticeStudio
+PracticeSuite
+Praxis EMR
+PrognoCIS
+Prognosis Innovation Healthcare
+PS Suite EMR
+PulseEHR
+Purkinje EMR
+Quantros
+Quanum EHR
+QuikEyes
+Qventus
+Qvera
+Radekal Productivity Tool
+Rapid
+RCM Cloud
+Rcopia-MU
+ReDoc
+ReLi Med
+RevolutionEHR
+RxNT
+Rycan
+Salesforce Health Cloud
+SammyEHR
+SCC SoftID
+SchuyLab
+SCI Solutions
+Scimage
+ScriptRx
+SequelMed EHR
+Sevocity
+Siemens Lantis
+SigmaCare
+Sigmund Aura
+SilkOne Chiropractic EHR
+Simplify ASC Platform
+Smaart Medical Systems
+SmartCare
+SmartExam
+SOAPware
+SoftClinic
+SonoSoft EMR
+SpringCharts
+Strata EPSi
+StreamlineMD
+SuccessEHS
+Sunquest Flexilab
+Sunwave
+SurgiSource
+SwipeClock
+Systemedx
+T SystemEV
+Team Chart Concept
+Therabill
+TheraManager
+TheraNest
+TherapyNotes
+Thrive EHR
+TotalMD
+TRIARQ EHR/PM
+TriMed EHR
+TriZetto Facets
+UL OHM
+UniCharts
+UroChartEHR
+Valant
+Valco
+Varian ARIA
+Varian VARiS Vision
+VeinSpec EMR
+Veradigm EHR
+Vericle
+Verisma
+VersaForm
+VersaSuite
+VertexDr
+Vetstreet
+Virence Health Centricity
+Visonex Clarity
+VITAE Suite
+WebChart
+WEBeDoctor
+WebPT
+Welligent
+Wellsoft
+WinSURGE
+WorkWave (Unspecified Product)
+WoundExpert
+WritePad
+WRS Health
+Xperthis
+Yardi EHR
+Yardi eMAR
+ZenCharts
+ZocDoc

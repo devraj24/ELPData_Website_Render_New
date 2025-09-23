@@ -1,0 +1,1 @@
+// This file is no longer needed - using base64 instead

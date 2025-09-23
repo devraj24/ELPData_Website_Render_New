@@ -1,0 +1,395 @@
+Business Process Management (BPM)
+Business Process Management (BPM) software is designed for modeling, automation, execution, control, measurement, and optimization of business activities in support of enterprise goals. It spans systems, employees, customers, and partners within and external to the enterprise.
+# Products
+385
+# Vendors
+297
+# Companies
+217.5K
+# Records
+442.6K
+17hats
+3DEXPERIENCE Platform
+4castplus
+ABB Distributed Control Systems (DCS)
+Accruent Energy & Sustainability Management
+Accusoft (Unspecified Product)
+Actico
+ActiveBuilding
+ActiveOps
+Adeptia
+ADOIT
+Aegis MES
+AgilePoint NX
+Agiline
+Alchemer
+Alloc8
+Altametrics
+Amplitude
+Ansarada
+Anthology Encompass
+AnyLogic
+AppFolio Lisa
+Appian
+Apromore
+Apttus
+Ardoq
+Arena Simulation
+ARIS Architect & ARIS Designer
+ARIS Aware
+ARIS Enterprise Architecture
+ARIS for SAP Solutions
+ARIS Process Governance
+ARIS Process Performance Manager
+ARIS Simulation
+ASG TMON
+Aspen Flare System Analyzer
+Aspen InfoPlus.21
+AssessTEAM
+Aurea Process
+Autoklose
+Autotask PSA
+AVEVA Production Management
+Avocet
+AWS Organizations
+Axelor
+Axway TradeSync Integration Manager (TSIM)
+Azure Arc
+Azure Automation Account
+Azure Logic Apps
+Baremetrics
+bee4sense Information Insight
+Behavox
+beqom
+Billhighway
+Bizagi
+BizFlow
+Blue Prism
+BlueDolphin
+Bonita BPM
+BP Logix
+BrainStorm
+BST Global
+CA Aion Business Rules Expert
+CA Customer Experience Manager (CEM)
+CA ecoSoftware
+Camunda
+Capgemini
+Capita
+Carpe Diem Time Recording
+Casewise
+Causeway CATO
+Celaton
+Centrik
+Centum
+Cflow
+CGI Strata
+Churn Buster
+Cisco EnergyWise
+Cisco Unified Border Element (CUBE)
+Civica
+CleanTelligent
+ClickLearn
+Comarch
+CommunityWFM
+CompAnalyst
+Comply365
+Conga CLM
+ContractWorks
+Cool Farm Tool
+Cora SeQuence
+Coupa (Unspecified Product)
+Coupa Storefront
+CreditLens
+Critical Impact
+Cronofy
+CustomerGauge
+Data Impact by NielsenIQ
+DATUM Information Value Management
+Dealer Safeguard
+DealerCenter
+Determine Software
+DevonWay
+Digitate
+Diligent
+Distribution Engine
+DocFinity
+DocuSign CLM
+Dozuki
+DroneDeploy
+Drools
+Dubsado
+Duck Creek Rating
+DXC Business Process Services
+Ecochain
+EcoOnline
+ELCIA ProDevis
+Ellucian Workflow
+ELMA365
+ENGIE Impact
+Epicor Activant
+Evisort
+Exapilot
+Exaplog
+Exaquantum
+EZlease
+FieldMate
+FireHydrant
+Flexline ERP
+Flowable (Unspecified Product)
+FM:Systems
+FoodLogiQ
+FXmicropay
+GE Proficy
+Glue Reply
+GoCanvas
+Google Analytics 4 (GA4)
+Gracesoft Easy InnKeeping
+GrowthZone
+GuestVision
+Gurobi
+HCL Technologies (Unspecified Product)
+HEFLO
+Higg Index
+Hitachi MicroSCADA X
+Holded
+HollySys (Unspecified Product)
+Hubworks
+Hytera
+IBM Blueworks Live
+IBM Business Process Manager
+IBM Cloud Pak for Automation
+IBM FileNet Business Process Framework
+IBM ILOG CPLEX Optimization Studio
+IBM Operational Decision Manager
+IBM Planning Analytics
+IBM WebSphere Business Modeler
+Icertis
+IFS Cloud
+iGrafx
+Impexium
+Infor Ming.le
+Infor Risk & Compliance
+InfoReady
+Informatica Business Process Management
+Injixo
+Intalio BPMS
+Intapp Integration Service
+Intapp OnePlace
+Intapp Terms
+Intellect
+iTacit
+Itesoft
+itopia
+ItsaCheckmate
+JBoss Enterprise BRMS
+JD Edwards EnterpriseOne V9
+Jellyfish
+JESTA Vision
+JIFFY.ai
+Jira Align
+JOOR
+JustOn
+Justworks Hours
+K2 blackpearl
+Kainos
+Knova
+KPI Fire
+Lattice
+LeaveLink
+Limble CMMS
+Limeade
+Limeade Listening
+LivePlan
+Logi Info
+Loopio
+Lusha
+Maestro PMS
+MaintMaster
+Measure Square (Unspecified Product)
+Micro Focus Business Process Testing
+Micro Focus Real User Monitor
+Microsoft Cloud for Sustainability
+Microsoft Dynamics 365 for Talent
+Microsoft Office 365 F1
+Microsoft Power Automate
+Model N (Unspecified Product)
+Moogsoft
+MoversSuite
+MRI Residential Management
+Multipub
+Nasdaq IR Insight
+NEST Facilitate
+NetSuite SuiteFlex
+Netsuite SuiteSuccess Nonprofit
+Nintex Process Manager
+Noggin
+NorthBoundary
+Notifii
+Nowsta
+OfficeSpace
+Oitchau
+Omatic
+OmniFlow iBPS
+Omnigo
+OMNITRACKER
+OneSource Virtual
+ONLYOFFICE
+Onspring
+Onvio
+OpenFin
+OpenText 360 for SharePoint
+OpenText BizLink
+OpenText Business Rule Manager
+OpenText LiquidOffice
+OpenText MBPM
+OpenText Process Suite Platform
+Opex Document Automation
+Opex Mail Automation
+Oracle Business Process Management
+Oracle E-Business Suite 12
+Oracle Insurance Insbridge Enterprise Rating
+Oracle Siebel Task Based User Interface
+Ostendo
+PAFnow
+Pega BPM
+Pega Infinity
+Pega Robotic Process Automation
+PegaRULES Process Commander (PRPC)
+PHAWorks
+Piano SocialFlow
+Planfix
+PLATO e1ns
+PMXpert
+PNMsoft
+Poka
+PowerPlan
+ProcessGold
+ProcessMAP
+Proplanner
+Provenir
+Pypestream
+Quadrotech
+Quantros Outcomes Analytics
+Quorum Execute
+Rational System Architect
+Red-on-line
+Referral Rock
+RentPost
+ResortSuite PMS
+Revitas Contract Manager
+RIB SpecLink
+RightCrowd
+Rocket LegaSuite
+Roomkey
+Route4Me
+RouteOne
+Salentica Engage
+Sales Creatio
+Salesforce Net Zero
+Salesforce Net Zero Cloud
+SAP Ariba
+SAP Customer Care and Service (CCS)
+SAP Digital Boardroom
+SAP Edge Services
+SAP Event Management
+SAP Innovation Management
+SAP Omnichannel Promotional Pricing
+SAP Process Orchestration
+SAP Profitability and Performance Management
+SAP Sustainability
+Seeq
+SegMetrics
+SelectHub
+SenseTime
+Sequoia
+Sertifi
+ServiceNow (Unspecified Product)
+ServiceNow Continual Improvement Management
+ServiceNow Employee Center
+ServicePRO
+Siemens Opcenter
+Siemens SIMATIC WinCC
+Signavio
+SingleOps
+SirionLabs
+SiteHawk
+SiteMinder
+SmartBPM
+SmartSuite
+SOFTRAX
+Software AG ARIS
+Sphera ESG
+SpheraCloud
+Splunk Business Flow
+Square 9 Softworks
+Supplyframe
+SYDLE ONE
+Symfact
+SymphonyAI Industrial
+Tecsys Elite
+Tekion
+TermSync
+Terryberry
+The Work Number
+Thryv
+TIBCO (Unspecified Product)
+TIBCO ActiveMatrix
+TIBCO ActiveMatrix Decisions
+TIBCO Business Studio
+TIBCO Cloud Nimbus
+TIBCO iProcess
+Time By Ping
+TOTVS Fluig
+TransVoyant
+Tungsten AP Essentials
+Tungsten MarkView
+Tungsten TotalAgility
+Ubersmith
+UiPath (Unspecified Product)
+UiPath Action Center
+UiPath Automation Suite
+UiPath Studio
+Uniphore
+Upmetrics
+UrbanFootprint
+ValGenesis Validation Lifecycle Management System
+Verisk 3E
+Veritone
+Vertafore Sagitta
+Veruna
+VinSolutions
+VisualCron
+Vitria
+Vivun
+VMware IT Business Management
+VTScada
+WEBCON Business Process Suite
+WebMethods
+webMethods Business Process Management Suite (BPMS)
+webMethods Business Rules
+webMethods Optimize for Infrastructure
+webMethods Optimize for Process
+Wellable
+WellRight
+Wellspring
+Whitestein LSPS
+Winning by Design
+Wiztopic
+WolfPAC
+Workday Business Planning
+WorkflowGen
+WorkFusion
+Workiva ESG Reporting
+WorkSpan
+WorkWave (Unspecified Product)
+XLCubed
+Xoxoday
+Yardi Breeze
+Yardi Matrix
+Yokogawa (Unspecified Product)
+Yokogawa PRM
+Zavanta
+Zenput
+Zoho Flow
+ZoomInfo SalesOS

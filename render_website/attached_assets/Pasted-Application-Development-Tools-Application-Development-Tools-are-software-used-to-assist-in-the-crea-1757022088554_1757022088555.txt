@@ -1,0 +1,973 @@
+Application Development Tools
+Application Development Tools are software used to assist in the creation and refinement of software applications.
+# Products
+963
+# Vendors
+453
+# Companies
+6.6M
+# Records
+16.4M
+1C Enterprise
+A1WebStats
+Abstract
+Accelerite CloudPortal Business Manager
+ACCELQ
+accessiBe
+Accompa
+Active>Data
+ActiveState
+Adobe Analytics Data Connector
+Adobe Audition
+Adobe Coldfusion
+Adobe Dreamweaver
+Adobe Edge
+Adobe Experience Platform Launch
+Adobe PhoneGap
+Adobe Portfolio
+AgilePoint NX
+AI21 Labs
+AIDAweb
+Airbrake
+AirTOP
+Ajax
+Akka
+Akraino Edge Stack
+Alcide
+Alexa Web Information Service
+Altium 365
+Altova XMLSpy
+Amazon Cloud Directory
+Amazon Corretto
+Amazon Honeycode
+Amazon Linux 2
+Amazon Linux AMI
+Amazon Product Advertising API
+Amazon Translate
+AMD ROCm
+Anaconda Navigator
+Android Studio
+Angular Material
+Ansys PowerArtist
+Ansys SCADE Display
+Anthos
+Anthos GKE on-prem
+AnyCasting
+Apache (Unspecified Product)
+Apache ActiveMQ
+Apache Airflow
+Apache Allura
+Apache Ambari
+Apache APISIX
+Apache Arrow
+Apache Axiom
+Apache Bahir
+Apache Beam
+Apache CarbonData
+Apache Cordova
+Apache Flex
+Apache Heron
+Apache Hop
+Apache HTTP Server
+Apache James
+Apache jclouds
+Apache Kafka
+Apache Libcloud
+Apache Livy
+Apache Log4j
+Apache Log4j 2
+Apache Mynewt
+Apache NetBeans
+Apache OFBiz
+Apache Oozie
+Apache Pig
+Apache Samza
+Apache ServiceMix
+Apache SkyWalking
+Apache Solr
+Apache Spark
+Apache Spark Streaming
+Apache Struts
+Apache Subversion
+Apache Tapestry
+Apache Tomcat
+Apache Zeppelin
+Apache Zookeeper
+Apexcharts
+Apiary
+Appen
+Appery.io
+AppFog
+AppHarbor
+Appian
+Apple iOS SDK
+Apple xCode
+Applitools
+AppLovin
+AppMaster
+AppOnboard
+Appsmith
+Apptimize
+Appy Pie AppMakr
+Appzillon
+Aptana
+Aptible
+ArcGIS AppStudio
+ArcGIS Web AppBuilder
+Argo
+Argo CD
+Artisteer
+ASAPP
+Aspen Mesh
+Assembla
+Astra
+Astronomer
+Atlantis
+Atlassian Bamboo
+Atlassian Bitbucket
+Atlassian Crucible
+Aurea DataXtend SI
+AutoRABIT
+Avada
+AWS Amplify
+AWS Amplify Hosting
+AWS App Runner
+AWS App2Container
+AWS AppSync
+AWS Auto Scaling
+AWS Cloud9
+AWS CloudFormation
+AWS CloudShell
+AWS CodeCommit
+AWS CodeStar
+AWS Copilot
+AWS EventBridge
+AWS Front-End Web & Mobile Services
+AWS IoT Core
+AWS IoT Greengrass
+AWS SDKs
+AWS Step Functions
+Axon Framework
+Azkaban
+Azul Platform Prime
+Azul Systems (Unspecified Product)
+Azure AI Custom Vision
+Azure App Center
+Azure App Configuration
+Azure App Service
+Azure Artifacts
+Azure Boards
+Azure Bot Service
+Azure Cosmos DB
+Azure DevTest Labs
+Azure Front Door
+Azure Functions
+Azure Kubernetes Service Engine (AKS Engine)
+Azure Portal
+Azure Resource Manager
+Azure SignalR Service
+Azure Spatial Anchors
+Azure Speech to Text
+Azure Stack
+Azure Test Plans
+Azure Visual Studio Code
+Azure Web Apps
+Backbone.js
+Backendless
+Backstage
+Balsamiq
+Bandwidth
+Beats
+BEE Pro
+Betty Blocks
+BigchainDB
+Binder
+Bitrise
+Bluefish
+BlueGriffon
+BMC Compuware ISPW
+Bonita BPM
+Bookmark
+Bootstrap Framework
+BOSH
+Bottle
+Bower
+Brigade
+Brightidea
+Broadcom ADS
+Broadcom Panvalet
+Broadcom RC/Update
+Broadcom Vollie
+BrowserStack
+Bubble
+Bugsee
+Buildah
+BuildBox
+Buildpacks.io
+Business Rules Environment (BRE)
+C++Builder
+CA 2E
+CA Gener/OL
+CA Harvest SCM
+CA Harvest Software Change Manager
+Cadence Palladium Emulation
+CakePHP
+Camunda
+Capacitor
+Carbonmade
+CaseComplete
+Caspio
+cdk8s
+Celery
+CentOS
+Cerence
+cert-manager
+Chaos Toolkit
+Chef Automate
+Chronosphere
+Cincom MANTIS
+Cisco CloudCenter
+Clever Cloud
+ClimateStudio
+CLion
+CloudForge
+Clover Sites
+ClubExpress
+cnvrg.io
+Co>Operating System
+Cocos Creator
+Coda
+codebeamer
+CodeChef
+Codecov
+CodeFutures
+CodeMirror
+CodeQL
+CodeSandbox
+CodinGame
+CoffeeCup HTML Editor
+CollabNet
+Composer
+Conan
+Concrete CMS
+Conda
+Conduct>It
+Conduktor
+ConfigCat
+Confluent Platform
+Construct
+Continuous>Flows
+Control>Center
+ConvertFlow
+Copado
+Cortex.io
+COZYROC
+cPanel
+Crank Storyboard
+CRI-O
+Crossplane
+Crownpeak DQM
+Crunchy Data
+Cyara Automated CX Assurance Platform
+Cybozu
+Cypress.io
+D-Wave (Unspecified Product)
+D2iQ
+D2iQ Konvoy
+D3.js
+Dash Enterprise
+Dassault Systemes (Unspecified Product)
+Data Quality Environment (DQE)
+Datadog API
+DataEase
+Datica
+Datical
+DBmaestro
+DeepSpeech
+Dell Clerity
+Dependabot
+Deque axe
+DevSpace
+DevSuite
+DHTMLX UI
+Diffbot
+Digital.ai App Management
+Digital.ai Change Risk Prediction
+Digital.ai Deploy
+Digital.ai Release
+Django
+Dlib
+Docker
+Docker EE
+Dogtag Certificate System
+dotCMS
+DPDK (Data Plane Development Kit)
+DreamHost
+DropWizard
+Drupal Commerce
+Duda
+Duro PLM
+Eclipse IDE
+Eclipse Jersey
+Eclipse Vert.x
+EcoStruxure Machine Expert
+ECU-Test
+Edge Impulse
+EditPlus
+Eggplant
+Elfsight
+ELK Stack
+Emarsys
+Engine Yard
+EnjoyHQ
+Enonic XP
+EnterMedia
+Enterprise Meta>Environment (EME)
+Envato
+Errorception
+Esper
+Esper.io
+Everteam
+Experitest
+Express
+Express>It
+Facebook SDK
+FancyBox
+fastlane
+Fiddler Everywhere
+Figma
+FileMaker
+FileMaker Pro Advanced
+Firecracker
+Flagger
+Flexera AdminStudio
+FlexLogger
+FlexNet Code Insight
+FlexNet Connect
+FlexNet Licensing
+FlexNet Operations
+FlexSlider
+Flinto
+Flosum
+Fluid UI
+Flutter
+FlutterFlow
+FOSSA
+FossID
+FoundationDB
+Framework7
+freeboard
+Froala
+Frostbite
+Fujitsu NetCOBOL
+GameAnalytics
+GameMaker
+Gameplay
+GameSalad
+Gatsby
+Gaug.es
+GDevelop
+GeneXus
+Genymotion
+GitHub Advanced Security
+GitHub Discussions
+GitHub Enterprise
+GitHub Gist
+GitLab Agile Planning
+GitPrime
+Gitter
+Glide Apps
+Glitch
+Gloo
+Gloo Mesh
+GoCD
+GoodBarber
+Google App Maker
+Google AppSheet
+Google Closure Tools
+Google Cloud AI Hub
+Google Cloud Debugger
+Google Cloud Key Management Service
+Google Cloud Run
+Google Cloud Serverless
+Google Cloud Shell
+Google Cloud Vertex AI Workbench
+Google Cloud Video Intelligence API
+Google Cloud Vision AI
+Google Custom Search
+Google Data Layer
+Google Dialogflow
+Google Firebase Cloud Functions
+Google Firebase Test Lab
+Google Gadgets API
+Google gRPC
+Google Guava
+Google Guice
+Google Interactive Media Ads SDK
+Google Lighthouse
+Google Sites
+Google Stadia
+Google Web Toolkit (GWT)
+GraalVM
+Gradle
+Graphical Development Environment (GDE)
+Grunt
+Guidebook
+Gulp
+H5P
+HackerEarth
+Handlebars
+Hansoft
+Harbor
+Harness
+Hasura
+Havok (Unspecified Product)
+Hazelcast IMDG
+HCL Domino
+HCL Domino 6
+HCL Domino 7
+HCL Domino 8
+HCL Leap
+HCL WebSphere Portal Server
+Helm
+Hevo
+Hexawise
+Heyzine
+HoneyBadger.io
+Hotelchamp
+HotGloo
+Hugging Face
+HUGO
+IBM App Connect
+IBM Bluemix
+IBM Cloud Application Performance Management
+IBM Cloud Private
+IBM ISPF
+IBM Maximo
+IBM Mobile Foundation
+IBM MobileFirst
+IBM Rational Application Developer
+IBM Rational Build Forge
+IBM Rational Change
+IBM Rational ClearCase
+IBM Rational ClearQuest
+IBM Rational Developer for i
+IBM Rational RequisitePro
+IBM Rational Rose
+IBM Rational Synergy
+IBM Rational Team Concert
+IBM Rational Test
+IBM Rational Test RealTime
+IBM Streams
+IBM UrbanCode Deploy
+IBM Watson
+IBM Watson Machine Learning
+IBM Watson Speech-to-Text
+IBM WebSphere
+IBM WebSphere Application Server
+IBM WebSphere eXtreme Scale
+iDempiere Business Suite
+Infinispan
+Infinity Tracking
+InstallAnywhere
+InstallShield
+Intel Media SDK
+Intel oneAPI
+Intel SGX (Software Guard Extensions)
+IntelliJ IDEA
+Intrexx
+Ionic
+iRise
+Jama Connect
+JBoss Enterprise Application Platform
+JCreator
+Jebbit
+Jekyll
+Jenkins X
+JetBrains
+JetBrains PhpStorm
+JetBrains PyCharm
+JetBrains RubyMine
+JFrog Pipelines
+JHipster
+JIDE
+Jile
+Jimdo (Unspecified Product)
+Jira Advanced Roadmaps
+Jira Software
+Jira Work Management
+jMonkeyEngine
+JNetDirect
+JORAM
+JRebel
+JS-Kit
+Jupyter
+Jupyter Notebook
+Jupyter Widgets
+JupyterHub
+JupyterLab
+Justinmind
+K3s
+k6
+KanbanFlow
+kaniko
+Katalon Studio
+Kendo UI
+Kimble
+Kinvey
+Kivy
+Kobiton
+Kogito
+kube-hunter
+Kube-router
+Kubecost
+KubeEdge
+Kubernetes
+KubeVirt
+KUDO
+Labelbox
+LabVIEW
+LabWindows/CVI
+LakeFS
+Laminas
+Langchain
+Lansa (Unspecified Product)
+Laravel
+LaunchDarkly
+LayaBox
+Layer7 API Developer Portal
+Leiningen
+Level Access
+Lightbend
+Logstash
+LongJump
+Magento 2
+Magnum
+ManageIQ
+MathJax
+Maze
+Mend Renovate
+Mesosphere
+Metadata Hub
+Metaflow
+MetalLB
+Micro Focus AccuRev
+Micro Focus COBOL Analyzer by OpenText
+Micro Focus CODAR
+Micro Focus Enterprise Analyzer by OpenText
+Micro Focus Enterprise Developer by OpenText
+Micro Focus Enterprise Server by OpenText
+Micro Focus Enterprise Server for .NET by OpenText
+Micro Focus PVCS Professional Suite
+Micro Focus StarTeam
+Micro Focus StormRunner
+Microsoft NuGet
+Microsoft Power Apps
+Microsoft Sharepoint Designer
+Microsoft Silverlight
+Microsoft Visual SourceSafe
+Microsoft Visual Studio
+Microsoft Visual Studio App Center
+Microsoft Visual Studio Enterprise
+Microsoft WinDbg
+MicroStrategy Library
+Mijnwebwinkel
+Milonic
+MindManager
+minikube
+Mirantis Kubernetes Engine
+Mirantis Lens
+Mirantis OpenStack for Kubernetes
+MockFlow
+Mockingbird
+Mockoon
+Mockplus
+Moqups
+MotioCI
+MotioPI
+Mule runtime engine 3.5
+Mule runtime engine 3.7
+Mule runtime engine 3.8
+Mule runtime engine 3.9
+Mule runtime engine 4.1
+Mule runtime engine 4.2
+Mule runtime engine 4.3
+MuleSoft Anypoint
+Mux Video
+MVS/QuickRef
+MyEclipse
+NaturalONE
+nDimensional
+Neptune DX Platform
+Netflix Conductor
+Netlify
+NetSuite SuiteBundler
+NetSuite SuiteCloud
+NetSuite SuiteFlow
+NetSuite SuiteScript
+Niantic Lightship
+NinjaMock
+Nivo Slider
+No Magic Teamwork Cloud
+Node-RED
+Node.js
+Nolio Release Automation
+NPM
+Nunjucks
+NVIDIA Cumulus Linux
+NVIDIA DGX A100
+NVIDIA JetPack SDK
+NVIDIA TensorRT
+Nylas
+ODP.NET
+OllyDbg
+Omni CMS
+Open Application Model
+Open Computing Language (OpenCL)
+Open Graphics Library (OpenGL)
+Open Multi-Processing (OpenMP)
+Open Policy Agent
+Open vSwitch
+OpenAI Codex
+OpenAPI
+OpenIO
+OpenJDK Loom
+OpenMetrics
+OpenSCAP
+OpenText ALM Octane
+OpenText AppWorks
+OpenText Artix
+OpenText Dimensions CM
+OpenText Orbix
+OpenText VisiBroker
+OpenVINO
+OpsLevel
+Oracle APEX (Application Express)
+Oracle Application Integration
+Oracle Business Intelligence Enterprise Edition
+Oracle Cloud Infrastructure Data Science
+Oracle Consulting
+Oracle Container Engine for Kubernetes (OKE)
+Oracle Container Pipelines
+Oracle Fusion
+Oracle Fusion Middleware
+Oracle GlassFish
+Oracle HTTP Server
+Oracle JDBC
+Oracle JDeveloper
+Oracle JRockit
+Oracle Service Bus
+Oracle SOA
+Oracle Stream Analytics
+Oracle Text
+Oracle TopLink
+Oracle Tuxedo
+Oracle Visual Builder
+Oracle WebLogic Server
+Orcharhino
+OverOps
+Oxygen XML Editor
+Ozone
+PaddlePaddle
+Palo Alto Checkov
+Pandora FMS
+Pantheon
+Parasoft Virtualize
+Parcel.js
+Parsec
+Payara Server
+PeopleSoft PeopleTools
+Perforce
+pgAdmin
+Phaser
+Phoenix
+Photoswipe
+PHP 5.3
+PHPCI
+Pidoco
+Pilosa
+Pivotal Software
+PlatformIO
+Play Framework
+PlayCanvas
+Plotly Dash
+Plotly.js
+Pluralsight Flow
+Plutora
+Podia
+Podman
+Polaris Software Integrity Platform
+Poptin
+Portainer
+Posit
+Posit Workbench
+Postico
+Pravega
+Prefect
+PrimeNG
+Prismic
+Profound Logic Software
+ProGet
+ProntoForms
+Proto.io
+ProtoPie
+PTC Codebeamer
+PTC Windchill RV&S
+PubSub+
+Pulsar
+Pulumi
+PythonAnywhere
+QMetry
+QT.io
+Query>It
+QuickBase
+Quobyte
+Quorum
+Rake
+Rally
+RAML
+Rancher Longhorn
+Rancher RKE
+RapidAPI
+RapidWeaver for Mac
+Rapise
+React Flow
+React Native
+ReadMe
+ReadyAPI
+Readymag
+Red Hat (Unspecified Product)
+Red Hat AMQ
+Red Hat Cloud Suite
+Red Hat Cluster Suite
+Red Hat Data Grid
+Red Hat Decision Manager
+Red Hat OpenShift 3.x
+Red Hat OpenShift 4.x
+Red Hat OpenShift Container Platform
+Red Hat OpenShift Service on AWS
+Red Hat Process Automation Manager
+Red Hat Quay
+Render
+Replit
+ReQtest
+RequireJS
+ReqView
+RethinkDB
+Retool
+RevenueCat
+Robocorp
+Rocket DevOps
+Rocket LegaSuite
+Rocket U2
+Rocket UniData
+Rocket Uniface
+Rocket UniVerse
+Rogue Wave
+Rovius CP
+RPG Maker
+RSLogix
+RSLogix 500
+RStudio
+Ruby on Rails
+runc
+Sabre Scribe
+SafeGraph
+Salesforce Commerce Cloud SFRA
+Salesforce VisualForce
+Salesforce.com Force.com
+Salesforce.com Lightning Platform
+Salt Open
+Samsung Knox Configure
+Sanity.io
+SAP 4.7c
+SAP AppGyver
+SAP Build
+SAP BusinessObjects Design Studio
+SAP Cloud Platform
+SAP Conversational AI
+SAP eCATT
+SAP Extension Suite
+SAP Floorplan Manager
+SAP Integration Suite
+SAP NetWeaver
+SAP PowerBuilder
+SAP Spartacus
+SAP StreamWork
+SAP Sybase EAServer
+SAP Test Accelerator & Optimizer (TAO)
+SAP Test Data Migration Server (TDMS)
+SAP Web Application Server
+Sapiens eMerge
+Scalyr
+SciComp
+Secure Code Warrior
+Semantic UI
+Semaphore
+Semgrep
+Semmle
+Sentry
+Senzing
+ServiceNow Mobile App Builder
+ServiceNow Process Automation Designer
+ServiceNow Scaled Agile Framework (SAFe)
+ServiceNow UI Builder
+Servoy
+Seventh Sense
+Shiny
+Shopify Hydrogen
+Sigrity PowerDC
+Sigrity PowerSI
+Silktide
+SILworX
+Simpack
+Siteimprove
+Skaffold
+Skytap
+SmartBear Software
+SmartOS
+Snorkel AI
+Snowpark
+Snyk Code (SAST)
+Snyk Infrastructure as Code (Snyk IaC)
+SOAPSonar
+SocketTools
+Software AG CentraSite
+Software AG Entire Access
+Software AG Natural
+Software AG Natural Engineer
+Software AG Predict Application Control
+Solidus
+SonarLint
+Sonobuoy
+SourceForge
+Sourcegraph
+Sparx Systems Enterprise Architect
+Specialist Apps
+SPIFFE
+SPIRE
+Spirent TestCenter
+Splunk Data Stream Processor (DSP)
+Splunk Storm
+Spring
+Spring Boot
+Spring Cloud
+Spring Cloud Sleuth
+Spring XD
+Stack Overflow
+StackShare
+StackStorm
+Standard Library
+Stanford CoreNLP
+Stencyl
+Stolon
+Stoplight
+StoriesOnBoard
+StorPool
+Strapi
+Strikingly
+Strimzi
+Svelte
+SwaggerHub
+Syncfusion
+systemd-nspawn
+Tailwind CSS
+Talend Data Integration
+Tapcart
+TCS MasterCraft
+TeamCity
+Teleport
+Telerik
+Telerik Test Studio
+Temenos Quantum
+Tenon.io
+TerraScan
+TerraSky
+Test Data Management (TDM)
+TestFairy
+Testsigma
+tf.data
+TFX
+The Welkin Suite
+ThickBox
+ThingWorx Navigate
+Thinkwise
+Thunkable
+TIBCO ActiveMatrix BusinessWorks
+TIBCO Designer
+TIBCO Enterprise Message Service
+TIBCO PortalBuilder
+Tidyverse
+Tizen
+Toloka
+TopTeam Analyst
+TraceMaster
+TrackVia
+Tricentis NeoLoad
+Trilio
+Tuleap
+TwidoSuite
+Twine
+Twixl
+Uber Cadence
+Ubuntu
+Ucommerce
+UiPath Apps
+UiPath Test Suite
+UltraEdit
+Unfuddle
+Unity
+Unqork
+UserBit
+UserWay
+UXPin
+Vaadin
+vBulletin
+Vector
+Veracode Dynamic Analysis (DAST)
+Veracode Software Composition Analysis (SCA)
+Veracode Static Analysis (SAST)
+Vercel
+Verivo
+VictoriaMetrics
+Visual Composer
+Visual LANSA
+Visure
+Vitess
+VMware HCX
+VMware Photon OS
+VMware vFabric Application Director
+Voiceflow
+Voila
+Vuforia Engine
+Vulkan
+WAVE
+web2py
+WebAssembly
+Webflow
+WebGL
+WebLOAD
+webpack
+WebSite Tonight
+WebSite X5
+WebsiteBuilder
+WebStarts
+Webstorm
+Weights & Biases
+Wercker
+Wijmo
+Wireframe.cc
+Workday Extend
+WYSIWYG Web Builder
+XCTest
+XPStorm
+XWiki
+Yarn
+Yodiz
+Zend Server
+ZenTao
+Zeplin
+Zoho Creator
+Zoho Sites
+Zoomin
+Zope

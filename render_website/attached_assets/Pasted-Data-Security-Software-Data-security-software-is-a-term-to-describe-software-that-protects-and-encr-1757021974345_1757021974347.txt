@@ -1,0 +1,859 @@
+Data Security Software
+Data security software is a term to describe software that protects and encrypts data, directories, and systems from threats, hacks, and mechanical failure. It can be used to protect sensitive business information, automate data backups and threat monitoring, and to perform tests to ensure that data, images, and other sensitive information is encrypted and indecipherable in case firewall or network security appliances are compromised.
+# Products
+849
+# Vendors
+450
+# Companies
+1.8M
+# Records
+2.8M
+42Crunch
+Abnormal Security
+Absolute Software
+Abuse Mailbox Automation
+Access Assurance Suite
+Acronis Cyber Protect
+Acronis Snap Deploy
+Acronis True Image
+ActiveDisclosure
+ActiveState
+AD Enterprise
+Adabas Delta Save
+Adabas SAF Security
+Addigy
+Adjust
+Agari
+Airlock
+Akamai Kona Site Defender
+Akismet
+Alert Logic Cybersecurity Monitoring
+AlertMedia
+Alibaba Container Service for Kubernetes
+AlienVault
+AlienVault Unified Security Management
+Altaro
+Amazon CloudEndure Migration
+Amazon Fraud Detector
+Amazon Inspector
+Amazon Macie
+Amazon Security Lake
+AMD SEV
+Amdocs Security
+Anchore
+Anomali ThreatStream
+Anvilogic
+ANY.RUN
+Apache Metron
+Apache Ranger
+Apache SpamAssassin
+AppGate
+Appgate SDP
+Apporto
+AppRiver
+Aqua
+Aqua Trivy
+Arbor DDoS
+Archer Integrated Risk Management
+ArcMail
+Arcserve (Unspecified Product)
+ArcSight Recon
+ArcSight User Behavior Analytics
+Arctic Wolf Managed Detection and Response
+Area 1
+Aruba Clearpass
+Asigra
+Atlassian Access
+Atomist
+AttackIQ
+Attivo Networks
+Authentic8 Silo
+Automox
+Autopsy
+Avalance
+Avanan
+Avira
+AWS Backup
+AWS Cloud Data Migration
+AWS Directory Service
+AWS Firewall Manager
+AWS IAM Identity Center
+AWS IoT Device Defender
+AWS Key Management Service (KMS)
+AWS Nitro Enclaves
+AWS PrivateLink
+AWS Single Sign-On
+AWS Snowmobile
+AWS Storage Gateway
+AWS Systems Manager Parameter Store
+AWS WAF
+Azure Active Directory Domain Services
+Azure Audit Logs
+Azure Backup
+Azure Confidential Computing
+Azure Data Catalog
+Azure Defender
+Azure for US Government
+Azure Identity Management
+Azure Information Protection
+Azure Key Vault
+Azure Network Watcher
+Azure Security Center
+Azure Site Recovery
+Azure Virtual Network
+Azure Web Application Firewall (WAF)
+Backup4all
+BackupAssist
+Barracuda Essentials
+Barracuda Networks (Unspecified Product)
+Barracuda Sentinel
+BeeGFS
+BehavioSec
+BeyondCorp
+BigID
+BigID Data Privacy Suite
+Bitdefender GravityZone
+Bitwarden
+BlackBag
+BlackBox
+Blue Coat Secure Web Gateway
+Bluefin
+Blueliv
+BMC Remedy Encryption
+BOTsink
+Bricata
+Bridgecrew
+BridgeHead MEDITECH Backup
+Brivo
+Broadcom RC/Secure
+Broadcom Top Secret
+CA Data Protection
+CA FAVER VSAM Data Protection
+CA Strong Authentication
+Calico
+Capsule8
+Castle
+Catalogic
+CATSWeb
+Cavirin
+CCleaner
+CensorNet
+Cerberus FTP Server
+Check Point Capsule
+Check Point CloudGuard
+Check Point Data Loss Prevention
+Check Point Harmony Endpoint
+Check Point Maestro
+Check Point Pointsec PC
+Check Point SmartEvent
+CHEQ ClickCease
+CipherTrust Cloud Key Manager
+Cisco AMP for Email
+Cisco Cloudlock
+Cisco Defense Orchestrator
+Cisco Email Security
+Cisco Firepower
+Cisco IronPort
+Cisco Meraki SD-WAN
+Cisco Registered Envelope Service
+Cisco SASE (Secure Access Service Edge)
+Cisco ScanSafe Web Security
+Cisco SecureX
+Cisco Talos
+Cisco Threat Grid
+Cisco Umbrella
+Clair
+Claroty (Unspecified Product)
+ClearSale
+Clearswift
+ClickSchedule
+Clonezilla
+Cloud Custodian
+CloudEndure Disaster Recovery
+Cloudflare Access
+Cloudflare Bot Management
+Cloudflare Gateway
+Cloudmark
+CloudSOC CASB
+Code Dx
+Code Green Networks
+Code42
+Cofense PhishMe
+Cofense Triage
+Cognitec
+Cohesity (Unspecified Product)
+Cohesity DataProtect
+Commvault (Unspecified Product)
+Commvault Metallic
+Comodo Certificate Manager
+Comodo UserTrust
+Control Compliance Suite
+Core Security
+Corero
+CoSoSys
+CrowdStrike Falcon Insight
+CrowdStrike Falcon OverWatch
+CRU
+Cyber Triage
+Cyberbit
+Cybereason
+Cybereason EDR
+CyCognito
+CyFIR
+CylanceOPTICS
+Cymulate
+CynergisTek
+Cyren
+D3 Security
+D3 SOAR
+Damballa
+Dashlane
+Data Theorem
+Datadog (Unspecified Product)
+Datadog Infrastructure Monitoring
+DatAdvantage
+DatAlert
+Dataminr
+DataSunrise
+Datto (Unspecified Product)
+Deep Discovery Inspector
+Delinea Secret Server
+Dell APEX
+Dell BSAFE
+Dell Data Protection Encryption
+Dell EMC Avamar
+Dell EMC Data Protection Advisor
+Dell EMC Data Protection Suite
+Dell EMC Disaster Recovery
+Dell EMC MirrorView
+Dell EMC NetWorker
+Dell EMC SnapView
+Delphix
+Demisto
+Dependabot
+Detectify
+DeviceLock
+Devo
+Digify
+Digital Shadows
+dmarcian
+DNIF
+DNV Safeti
+dormakaba
+Dotfuscator
+Dragos
+Drata
+Druva
+DTEX
+Dynatrace (Unspecified Product)
+Early Warning
+Echosec
+EclecticIQ
+eEye Digital Security
+Egress
+EJBCA
+Elektrobit
+ElevenPaths
+empow
+Endpoint Protector
+Enforcive
+EnGuard
+Entrust (Unspecified Product)
+Ericom
+ERPScan
+eScan
+eSentire
+EventSentry
+EventTracker Security Center
+Exabeam Advanced Analytics
+Exabeam Fusion SIEM
+Experian FraudNet
+F5 Advanced WAF
+F5 SSL Orchestrator
+Falco
+Falcon LogScale
+Falcongaze
+FICO Falcon Fraud Manager
+FileCloud
+FileWave
+FireEye AX
+FireEye EX
+FireEye Helix
+FireEye HX
+FireEye Redline
+Fiserv Sentry Cybersecurity
+Flashpoint
+Forcepoint CASB
+Forcepoint Email Security
+Forensic Toolkit (FTK)
+Fortanix
+Fortigate 90D
+Fortinet FortiDB
+Fortinet FortiGuard IPS Service
+Fortinet FortiMail
+Fortinet FortiManager
+Fortinet FortiPortal
+Fortinet Universal Zero Trust Network Access (ZTNA)
+Forward Enterprise
+Fraud.net
+FuseMail
+FutureX
+GFI (Unspecified Product)
+GFI Archiver
+GFI FaxMaker
+GFI LanGuard
+GFI MailEssentials
+GIACT
+GitGuardian
+GlobalSign
+Gloo Edge
+GnuPG
+Google Authenticator
+Google Cloud Application Security
+Google Cloud Armor
+Google Cloud Data Loss Prevention
+Google Cloud Secret Manager
+Google Identity Services APIs
+Google Sign-In
+Google VPC Service Controls
+Gravity Forms
+Gremlin
+Guardian Analytics
+GuardianEdge
+Guidance Software
+HackerOne
+HashiCorp Vault
+HCL Verse
+Hdiv
+HelpSystems (Unspecified Product)
+Hex-Rays
+HID DigitalPersona
+Hirsch Velocity Software
+HiSoftware
+Hitachi Data Ingestor
+Hitachi Data Instance Director
+Hornetsecurity
+HP-UX
+HPE FlexNetwork Architecture
+Huntress
+Huntsman
+HYCU
+Hyland Cloud
+Hyperproof
+HyTrust
+IBM Counter Fraud Management
+IBM ISS
+IBM Proventia
+IBM PureApplication System
+IBM QRadar
+IBM QRadar SIEM
+IBM RACF
+IBM Resilient
+IBM Security Guardium
+IBM Security Guardium Data Encryption
+IBM Security Guardium Vulnerability Assessment
+IBM Security Identity Manager
+IBM Security Key Lifecycle Manager
+IBM Security Privileged Identity Manager
+IBM Security zSecure
+IBM Spectrum Protect Plus
+IBM Sterling B2B Integrator
+IBM Sterling Secure Proxy
+IBM Tivoli
+IBM Tivoli Security Operations Manager
+IBM X-Force Exchange
+IDaptive
+Illusive
+Imageware
+iManage Security Policy Manager
+Immuta
+Imperva SecureSphere Database Audit and Protection
+Imprivata FairWarning
+inDefend
+Indeni
+Infoblox BloxOne
+Infoblox DDI
+Infoblox DHCP
+Informatica Cloud API and Application Integration
+Informatica Cloud Data Integration
+Informatica Cloud Data Quality
+Informatica Cloud Integration Hub
+Informatica Cloud Test Data Management
+Informatica Data Privacy Management
+InfoWatch
+InfoWatch Traffic Monitor
+Infrascale
+INKY
+Intapp Walls
+Intel 471
+Intel SGX (Software Guard Extensions)
+InterBase
+Intigriti
+Iovation
+Iperius Backup
+Irdeto
+Iris ID
+IRONSCALES
+Ivanti Connect Secure
+Jetico
+JFrog (Unspecified Product)
+Joe Sandbox
+Jungle Disk
+Kaseya VSA
+Kaspersky Anti Targeted Attack Platform
+KeePass
+Keeper Security
+Kerio Control
+Keybase
+Keycaptcha
+Keycloak
+Keyfactor
+Kiali
+Kiuwan
+KnowBe4
+Lepide
+Lexis Nexis Risk Solutions (Unspecified Product)
+LexisNexis InstantID
+LexisNexis Risk Management Solutions
+Linoma Software
+Liongard
+LiveVault
+LogPoint
+Logpoint SIEM
+LogRhythm SIEM
+London Grid for Learning (LGfL)
+LSEG Verified Entity Data as a Service
+LumenVox
+LynxOS-178
+M86 Security
+Macrium Reflect
+Magnet IEF
+Mailinblack
+ManageEngine AD360
+ManageEngine DataSecurity Plus
+ManageEngine EventLog Analyzer
+Mandiant
+MaxPatrol 8
+MaxPatrol SIEM
+McAfee (Unspecified Product)
+McAfee Active Response
+McAfee Cloud Workload Security (CWS)
+McAfee Deep Defender
+McAfee DLP Prevent
+McAfee E-Business Server
+McAfee Email Gateway
+McAfee Embedded Control
+McAfee EMM
+McAfee ePO
+McAfee Foundstone
+McAfee Global Threat Intelligence (GTI)
+McAfee MVISION Cloud
+McAfee NetShield
+McAfee NitroSecurity
+McAfee Secure
+McAfee Security for Email Servers
+McAfee Threat Intelligence Exchange
+McAfee Virtual Network Security Platform
+MDaemon
+Media Shuttle
+MediaClone
+Mend (Unspecified Product)
+Menlo Security
+MetaDefender Core
+Micro Focus Discovery and Dependency Mapping Inventory (DDMI)
+Microsoft 365 Defender
+Microsoft Active Directory Certificate Services
+Microsoft Authenticator
+Microsoft Cloud App Security
+Microsoft Communication Compliance
+Microsoft Compliance Manager
+Microsoft EMET
+Microsoft Endpoint Configuration Manager (MECM)
+Microsoft Purview Insider Risk Management
+Microsoft Safe Attachments
+Microsoft System Center Data Protection Manager
+Mimecast Secure Email Gateway
+MobileIron
+Mocana
+Mozy
+MVISION EDR
+MX Logic
+MyDLP
+N‑able Passportal
+NAKIVO
+Namirial
+Nasdaq Boardvantage
+NetApp Brocade Encryption
+NetApp SnapProtect
+NetApp SnapRestore
+NetApp SnapShot
+Netskope SASE
+Netskope Security Cloud
+Netsparker
+NetSPI
+Netsweeper
+NeuVector
+Nexus Auditor
+Nexus Lifecycle
+Nexus Vulnerability Scanner
+NICE Actimize
+NIKSUN
+NINJIO
+Ninox
+NowSecure
+Nozomi Networks (Unspecified Product)
+NS8
+Nuix
+Nutanix Flow
+Nutanix Mine
+Nutanix Xi Frame
+Nutanix Xi Leap
+ObserveIT
+Obsidian
+Okera
+OmniSite
+Onapsis (Unspecified Product)
+OneSpan
+Oosto
+OpenCTI
+OpenSSH
+OpenText ArcSight
+OpenText Connected Backup
+OpenText Filr
+OpenText Voltage SecureData
+OpsRamp Platform
+Opsware
+OPSWAT (Unspecified Product)
+Oracle Active Data Guard
+Oracle Advanced Security
+Oracle AML Transaction Monitoring
+Oracle Audit Vault
+Oracle Cloud Access Security Broker (CASB)
+Oracle Database Security
+Oracle Database Vault
+Oracle Financial Services Anti Money Laundering
+Oracle Information Rights Management
+Oracle Key Vault
+Oracle Label Security
+Oracle Passlogix
+Oracle Secure Global Desktop
+Oracle SuperCluster
+Orca Security Platform
+Osano
+OSSEC
+Owl Cyber Defense
+OwnBackup
+PacketViper
+Palo Alto Aperture
+Palo Alto AutoFocus
+Palo Alto Cortex XSOAR
+Palo Alto GlobalProtect
+Palo Alto MineMeld
+Palo Alto PA-3250
+Palo Alto PA-3260
+Palo Alto PA-5220
+Palo Alto Prisma SASE
+Palo Alto Wildfire
+Panasas ActiveStor
+Panaseer Platform
+Panda Adaptive Defense 360
+Panda Endpoint Protection
+Panther
+Parrot OS
+Passwordstate
+pCloud
+Pentera
+Perimeter 81
+PerimeterX
+Permutive
+PGP Universal Server
+PhishER
+phoenixNAP
+PingOne
+PKWARE
+PlexTrac
+Polaris Software Integrity Platform
+Positive Technologies (Unspecified Product)
+Postini
+PowerTech
+Privitar
+Pro Softnet IBackup
+Proctorio
+ProDiscovery
+Prolexic Routed
+Proofpoint
+Proofpoint Email DLP
+Proofpoint Email Encryption
+Proofpoint Enterprise Protection
+Proofpoint Essentials
+Proofpoint Threat Response
+Proofpoint Threat Response Auto-Pull
+Prosperoware
+Protegrity
+Proton Mail
+Q1 Labs
+Qualys Container Security
+Qualys Continuous Monitoring
+Qualys File Integrity Monitoring
+Qualys Patch Management
+Qualys PCI Compliance
+Qualys Policy Compliance
+Quest Change Auditor
+Quest LiteSpeed for SQL Server
+Quest Rapid Recovery
+Quest Software (Unspecified Product)
+Quest Spotlight on SQL Server
+Qwiet AI
+R1Soft
+Rackspace Vulnerability Assessments
+RadiantOne FID
+Radware Bot Manager
+Rapid7
+Raz-Lee
+Rebit Personal Backup
+reCAPTCHA
+Red Canary
+RedShield
+Remediant SecureONE
+ReversingLabs (Unspecified Product)
+RioRey
+RiskIQ PassiveTotal
+Riskonnect Risk Management Information System
+RiskRecon
+RiverMeadow Cloud Migration
+RSA Adaptive Authentication
+RSA DLP
+RSA Security Analytics
+Rspamd
+RUCKUS Wireless Access Points
+Runecast
+SafeBreach
+Safend
+SafeNet
+Safestone
+Safetica
+Salesforce Shield
+Salt Security
+SALTO Systems
+SAP Afaria
+SAP Business Technology Platform
+SAP Emergency Access Management (EAM)
+SAP Virsa Compliance Calibrator
+SAP Virsa FireFighter
+SAP Virsa Role Expert
+SAS Fraud Management
+SAS Grid Manager
+SCADAfence (Unspecified Product)
+ScanMail
+SCYTHE
+SD Elements
+Search Guard
+Seclore
+Secret Double Octopus
+Sectigo
+Secunet
+Secunia Research
+SecureBlackbox
+SecureLink
+SecureWorks Taegis XDR
+SecureZIP
+Securiti.ai
+Security Onion
+SecZetta
+Sendmail Sentrion
+SenSage AP
+Sentinel HASP
+ServiceNow Cloud Encryption
+ServiceNow Edge Encryption
+ServiceNow Vault
+ServiceNow Vulnerability Response
+Shodan
+Siav Archidoc
+Siemplify
+Silobreaker
+Silvertrac Software
+SiteLock
+Skeddly
+Skybox Security
+Smartronix
+Smoothwall
+Snyk
+Snyk Code (SAST)
+Snyk Infrastructure as Code (Snyk IaC)
+Snyk Open Source (SCA)
+SolarWinds Security Event Manager
+Somansa
+SonicWall Email Security
+SonicWall Soho 250
+SonicWall SuperMassive Series
+SonicWall TZ300
+SonicWall TZ400
+SonicWall TZ500
+Sonrai Security
+Sophos Email
+Sophos MDR
+Sophos Mobile
+Sophos Phish Threat
+Sophos SafeGuard Encryption
+Sophos Secure Web Gateway
+Sophos UTM
+SourceClear
+Spamhaus
+Spamina
+SpamTitan
+SpiderOak
+SPIFFE
+SPIRE
+Spirion
+Splashtop
+Splunk APM
+Splunk Infrastructure Monitoring
+Splunk Security
+SpyCloud
+Sqreen
+SSH Communications Security
+SSH Tectia
+SSH UKM Zero Trust
+Starfield Technologies
+StorageTek VolSafe
+Stormshield
+StreamSets DataOps Platform
+Stunnel
+Subex
+Sucuri
+Swimlane
+Symantec Data Center Security
+Symantec Data Center Security: Server Advanced
+Symantec Data Loss Prevention
+Symantec Network Access Control
+Symantec PGP
+Symantec Security Analytics
+Symantec Security Information Manager
+Synack
+SyncBackPro
+Synergi Life
+Sysdig Secure
+Tanium Protect
+Tanzu Service Mesh
+Tata Communications (Unspecified Product)
+TEHTRIS
+Tenable.ot
+Termius
+Tessian
+tfsec
+Thales
+The Update Framework
+TheHive
+Thinkst Canary
+ThreadFix
+ThreatConnect
+ThreatMetrix
+ThreatModeler
+ThreatQ
+Thycotic
+TIBCO ActiveMatrix Policy Director
+TIBCO KPSA
+Tines
+Tor Browser
+Trellix
+Trellix Advanced Threat Defense
+Trellix Helix
+Trellix Intrusion Prevention System (IPS)
+Trend Micro Cloud App Security
+Trend Micro Email Security
+Trend Micro InterScan Messaging Security
+Trend Micro XDR
+Trend Vision One
+Tricentis LiveCompare
+Trifacta
+Tripwire Enterprise
+Tripwire File Integrity Manager
+Tripwire Log Center
+Tripwire VIA
+TrueCrypt
+Trufflehog
+TrustCommerce
+Trustwave (Unspecified Product)
+Trustwave AppDetectivePRO
+Trustwave DbProtect
+Trustwave Secure Email Gateway (SEG)
+Trustwave SIEM
+Trustwave TrustKeeper
+Trustwave WebMarshal
+Tungsten Fabric
+Twistlock
+Typhoon
+UltraBac
+Unit21
+Unomaly
+UpGuard
+USM Anywhere
+Utimaco (Unspecified Product)
+Valimail
+VanDyke SecureFX
+Vanta
+Varonis
+Varonis Data Classification Engine
+Vaultive
+Veeam Backup for Microsoft Office 365
+Vera
+Veracode AppSec Governance
+VeraCrypt
+Veriff
+Verifone Point to Point Encryption (P2PE)
+Veritas (Unspecified Product)
+Veritas Backup Exec
+Veritas Disaster Recovery Orchestrator
+Veritas Enterprise Vault
+Veritas InfoScale Availability
+Veritas Resiliency Platform
+Veritas System Recovery
+Verizon Cybertrust
+Verve
+Very Good Security
+Virtru
+VirusTotal (Unspecified Product)
+VirusTotal Hunting
+VirusTotal Intelligence
+VMRay (Unspecified Product)
+VMware AirWatch
+VMware AppDefense
+VMware Secure Access
+VMware Site Recovery Manager
+VMware vShield Edge
+Vormetric DSM
+Vormetric Transparent Encryption
+vSphere Fault Tolerance (FT)
+Wallarm
+Waratek
+Wazuh
+WD Arkeia
+Webroot DNS Protection
+Websense SurfControl
+WebTitan
+Whistic
+WhiteHat DAST
+WinMagic
+WireWheel
+Wiz
+Wordfence
+X-Ways
+Xplico
+XSpider
+XWall
+Zelle
+ZenGRC
+ZeroFOX
+Zimperium
+Zix (Unspecified Product)
+Zix Email Encryption
+ZixOne
+Zmanda Enterprise Backup
+Zscaler (Unspecified Product)
+Zscaler CASB
+Zscaler Cloud Firewall
+Zscaler DLP
+Zscaler IPS
+Zscaler Private Access
+Zscaler SSE
+Zscaler ZTNA

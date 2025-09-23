@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug Tabs Test</title>
+    <style>
+        .tab-content { display: none; background: #f0f0f0; padding: 20px; margin: 10px 0; }
+        .tab-content.active { display: block; }
+        button { padding: 10px; margin: 5px; background: #007cba; color: white; border: none; cursor: pointer; }
+        button:hover { background: #005a8b; }
+    </style>
+</head>
+<body>
+    <h1>Tab Functionality Test</h1>
+    
+    <div>
+        <button onclick="toggleTab('medicine1')">View Internal Medicine Physicians</button>
+        <div id="medicine1" class="tab-content">
+            <h3>Internal Medicine Details</h3>
+            <p>89,245 physicians</p>
+            <p>Top Employers: Cleveland Clinic, Mayo Clinic, Johns Hopkins</p>
+        </div>
+    </div>
+
+    <div>
+        <button onclick="toggleTab('medicine2')">View Family Medicine Physicians</button>
+        <div id="medicine2" class="tab-content">
+            <h3>Family Medicine Details</h3>
+            <p>76,832 physicians</p>
+            <p>Top Employers: Intermountain Healthcare, Geisinger Health</p>
+        </div>
+    </div>
+
+    <div>
+        <button onclick="toggleTab('medicine3')">View Emergency Medicine Physicians</button>
+        <div id="medicine3" class="tab-content">
+            <h3>Emergency Medicine Details</h3>
+            <p>45,672 physicians</p>
+            <p>Top Employers: HCA Healthcare, Tenet Healthcare</p>
+        </div>
+    </div>
+
+    <script>
+        function toggleTab(tabId) {
+            const tab = document.getElementById(tabId);
+            const isActive = tab.classList.contains('active');
+            
+            // Close all tabs
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            
+            // Open clicked tab if it wasn't active
+            if (!isActive) {
+                tab.classList.add('active');
+            }
+        }
+    </script>
+</body>
+</html>

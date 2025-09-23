@@ -1,0 +1,9 @@
+# Netlify/Vercel redirects for apex domain
+https://elpdata.com/* https://www.elpdata.com/:splat 301!
+http://elpdata.com/* https://www.elpdata.com/:splat 301!
+
+# Force HTTPS
+http://www.elpdata.com/* https://www.elpdata.com/:splat 301!
+
+# SPA fallback
+/*    /index.html   200
