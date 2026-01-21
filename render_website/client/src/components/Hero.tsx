@@ -1,3 +1,5 @@
+import { Link } from "wouter";
+
 export default function Hero() {
   return (
     <section className="hero-gradient text-white pt-6 pb-10 relative overflow-hidden">
@@ -58,26 +60,28 @@ export default function Hero() {
               </div>
             </div>
             <div className="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start">
-              <a 
-                href="/contact-us" 
-                className="group bg-gradient-to-r from-orange-500 via-red-500 to-pink-600 text-white px-4 py-2 rounded-lg font-semibold text-sm shadow-lg border border-orange-300/30 backdrop-blur-sm transform hover:scale-105 active:scale-95 transition-all duration-300 hover:shadow-orange-500/40 flex items-center justify-center"
-              >
-                <span className="mr-2">🚀</span>
-                <span>Get Started Today</span>
-                <svg className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
-                </svg>
-              </a>
-              <a 
-                href="/contact-us" 
-                className="group bg-gradient-to-r from-cyan-500 via-blue-500 to-indigo-600 text-white px-4 py-2 rounded-lg font-semibold text-sm shadow-lg border border-cyan-300/30 backdrop-blur-sm transform hover:scale-105 active:scale-95 transition-all duration-300 hover:shadow-cyan-500/40 flex items-center justify-center"
-              >
-                <span className="mr-2">⚡</span>
-                <span>API Access</span>
-                <svg className="w-4 h-4 ml-2 group-hover:rotate-12 transition-transform" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z" />
-                </svg>
-              </a>
+              <Link href="/contact-us">
+                <a 
+                  className="group bg-gradient-to-r from-orange-500 via-red-500 to-pink-600 text-white px-4 py-2 rounded-lg font-semibold text-sm shadow-lg border border-orange-300/30 backdrop-blur-sm transform hover:scale-105 active:scale-95 transition-all duration-300 hover:shadow-orange-500/40 flex items-center justify-center"
+                >
+                  <span className="mr-2">🚀</span>
+                  <span>Get Started Today</span>
+                  <svg className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
+                  </svg>
+                </a>
+              </Link>
+              <Link href="/contact-us">
+                <a 
+                  className="group bg-gradient-to-r from-cyan-500 via-blue-500 to-indigo-600 text-white px-4 py-2 rounded-lg font-semibold text-sm shadow-lg border border-cyan-300/30 backdrop-blur-sm transform hover:scale-105 active:scale-95 transition-all duration-300 hover:shadow-cyan-500/40 flex items-center justify-center"
+                >
+                  <span className="mr-2">⚡</span>
+                  <span>API Access</span>
+                  <svg className="w-4 h-4 ml-2 group-hover:rotate-12 transition-transform" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z" />
+                  </svg>
+                </a>
+              </Link>
             </div>
           </div>
           <div className="flex-1">
@@ -86,7 +90,6 @@ export default function Hero() {
               <div className="absolute inset-0 bg-gradient-to-l from-orange-400 to-pink-500 rounded-2xl blur-2xl opacity-30 transform -rotate-1 scale-105"></div>
               <div className="relative rounded-2xl p-4 shadow-2xl transform hover:scale-105 transition-all duration-300">
                 <svg className="w-full h-72" viewBox="0 0 400 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  
                   {/* Office Environment */}
                   <rect x="20" y="20" width="360" height="60" rx="8" fill="#f8fafc" stroke="#64748b" strokeWidth="1"/>
                   <rect x="30" y="30" width="100" height="40" rx="4" fill="#e2e8f0"/>
@@ -142,7 +145,6 @@ export default function Hero() {
                   <rect x="280" y="140" width="10" height="51" rx="2" fill="#059669"/>
                   
                   {/* Professional Business People */}
-                  {/* Person 1 - Executive presenting */}
                   <ellipse cx="60" cy="270" rx="20" ry="6" fill="#1f2937" opacity="0.3"/>
                   <rect x="55" y="210" width="10" height="60" rx="5" fill="#1e40af"/>
                   <circle cx="60" cy="200" r="10" fill="#fbbf24"/>
@@ -151,7 +153,6 @@ export default function Hero() {
                   <rect x="50" y="240" width="5" height="30" rx="2" fill="#374151"/>
                   <rect x="65" y="240" width="5" height="30" rx="2" fill="#374151"/>
                   
-                  {/* Person 2 - Data analyst */}
                   <ellipse cx="140" cy="270" rx="18" ry="5" fill="#1f2937" opacity="0.3"/>
                   <rect x="135" y="230" width="10" height="40" rx="5" fill="#dc2626"/>
                   <circle cx="140" cy="220" r="8" fill="#f59e0b"/>
@@ -160,7 +161,6 @@ export default function Hero() {
                   <rect x="130" y="255" width="4" height="15" rx="2" fill="#374151"/>
                   <rect x="146" y="255" width="4" height="15" rx="2" fill="#374151"/>
                   
-                  {/* Person 3 - Business manager */}
                   <ellipse cx="260" cy="270" rx="18" ry="5" fill="#1f2937" opacity="0.3"/>
                   <rect x="255" y="230" width="10" height="40" rx="5" fill="#7c3aed"/>
                   <circle cx="260" cy="220" r="8" fill="#f97316"/>
@@ -168,59 +168,12 @@ export default function Hero() {
                   <rect x="265" y="240" width="5" height="15" rx="2" fill="#7c3aed"/>
                   <rect x="250" y="255" width="4" height="15" rx="2" fill="#374151"/>
                   <rect x="266" y="255" width="4" height="15" rx="2" fill="#374151"/>
-                  
-                  {/* Person 4 - Tech specialist */}
-                  <ellipse cx="340" cy="270" rx="20" ry="6" fill="#1f2937" opacity="0.3"/>
-                  <rect x="335" y="210" width="10" height="60" rx="5" fill="#059669"/>
-                  <circle cx="340" cy="200" r="10" fill="#eab308"/>
-                  <rect x="330" y="220" width="6" height="20" rx="3" fill="#059669"/>
-                  <rect x="344" y="220" width="6" height="20" rx="3" fill="#059669"/>
-                  <rect x="330" y="240" width="5" height="30" rx="2" fill="#374151"/>
-                  <rect x="345" y="240" width="5" height="30" rx="2" fill="#374151"/>
-                  
-                  {/* Technology Data Points */}
-                  <circle cx="40" cy="120" r="8" fill="#ef4444" opacity="0.9"/>
-                  <text x="40" y="125" textAnchor="middle" fill="white" fontSize="7" fontWeight="bold">125K</text>
-                  
-                  <circle cx="360" cy="110" r="8" fill="#10b981" opacity="0.9"/>
-                  <text x="360" y="115" textAnchor="middle" fill="white" fontSize="7" fontWeight="bold">98%</text>
-                  
-                  <rect x="30" y="160" width="28" height="16" rx="3" fill="#f97316" opacity="0.9"/>
-                  <text x="44" y="170" textAnchor="middle" fill="white" fontSize="6" fontWeight="bold">B2B</text>
-                  
-                  <rect x="342" y="150" width="28" height="16" rx="3" fill="#10b981" opacity="0.9"/>
-                  <text x="356" y="160" textAnchor="middle" fill="white" fontSize="6" fontWeight="bold">Tech</text>
-                  
-                  {/* Data Flow Lines */}
-                  <path d="M55 130 Q70 120 88 110" stroke="#f97316" strokeWidth="2" fill="none" opacity="0.7" strokeDasharray="4,4"/>
-                  <path d="M320 120 Q335 130 350 140" stroke="#10b981" strokeWidth="2" fill="none" opacity="0.7" strokeDasharray="4,4"/>
-                  
-
                 </svg>
-                
-                {/* Overlay Metrics */}
-                <div className="absolute bottom-4 left-4 right-4">
-                  <div className="flex justify-between items-end">
-                    <div className="bg-blue-500/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
-                      <div className="text-sm text-white font-medium">Technology Users</div>
-                      <div className="text-lg font-bold text-white">125,000+</div>
-                    </div>
-                    <div className="bg-green-500/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
-                      <div className="text-sm text-white font-medium">Decision Makers</div>
-                      <div className="text-lg font-bold text-white">85,000+</div>
-                    </div>
-                    <div className="bg-orange-500/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
-                      <div className="text-sm text-white font-medium">Data Accuracy</div>
-                      <div className="text-lg font-bold text-white">98%</div>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div className="absolute top-0 right-0 w-1/2 h-full opacity-5 bg-gradient-to-l from-primary-orange to-transparent"></div>
     </section>
-  );
+   );
 }
