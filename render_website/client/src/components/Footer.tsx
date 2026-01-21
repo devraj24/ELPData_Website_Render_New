@@ -78,16 +78,14 @@ export default function Footer() {
             </div>
           </div>
           
-          {footerSections.map((section, index ) => (
+          {footerSections.map((section, index  ) => (
             <div key={index}>
               <h4 className="font-semibold mb-4 text-white">{section.title}</h4>
               <ul className="space-y-2 text-gray-300">
                 {section.links.map((link, linkIndex) => (
                   <li key={linkIndex}>
-                    <Link href={link.href}>
-                      <a className="hover:text-blue-400 transition-colors">
-                        {link.name}
-                      </a>
+                    <Link href={link.href} className="hover:text-blue-400 transition-colors">
+                      {link.name}
                     </Link>
                   </li>
                 ))}
@@ -98,14 +96,15 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4 text-white">Quick Links</h4>
             <ul className="space-y-2 text-gray-300 text-sm mb-4">
-              <li><Link href="/contact-us"><a className="hover:text-blue-400 transition-colors font-bold text-orange-400">Contact Us Now</a></Link></li>
-              <li><Link href="/sap-users-list"><a className="hover:text-blue-400 transition-colors">SAP Users (368.7K)</a></Link></li>
-              <li><Link href="/salesforce-users-list"><a className="hover:text-blue-400 transition-colors">Salesforce.com (599K)</a></Link></li>
-              <li><Link href="/aws-users-list"><a className="hover:text-blue-400 transition-colors">AWS Cloud (156.2K)</a></Link></li>
-              <li><Link href="/installed-base"><a className="hover:text-blue-400 transition-colors">All Technology Lists</a></Link></li>
+              <li><Link href="/contact-us" className="hover:text-blue-400 transition-colors font-bold text-orange-400">Contact Us Now</Link></li>
+              <li><Link href="/sap-users-list" className="hover:text-blue-400 transition-colors">SAP Users (368.7K)</Link></li>
+              <li><Link href="/salesforce-users-list" className="hover:text-blue-400 transition-colors">Salesforce.com (599K)</Link></li>
+              <li><Link href="/aws-users-list" className="hover:text-blue-400 transition-colors">AWS Cloud (156.2K)</Link></li>
+              <li><Link href="/installed-base" className="hover:text-blue-400 transition-colors">All Technology Lists</Link></li>
             </ul>
             <p className="text-gray-300 text-xs">
               <i className="fas fa-envelope mr-2"></i><a href="mailto:info@elpdata.com" className="text-blue-400 hover:text-blue-300 underline">info@elpdata.com</a>  
+                
 
               <i className="fas fa-phone mr-2"></i><a href="tel:+13072242324" className="text-blue-400 hover:text-blue-300">+1 (307) 224-2324</a>
             </p>
@@ -113,7 +112,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-600 pt-8 text-center text-gray-300">
-          <p>&copy; 2024 ELP Data. All rights reserved. | <Link href="/privacy-policy"><a className="hover:text-white">Privacy Policy</a></Link> | <Link href="/terms-of-service"><a className="hover:text-white">Terms of Service</a></Link></p>
+          <p>&copy; 2024 ELP Data. All rights reserved. | <Link href="/privacy-policy" className="hover:text-white">Privacy Policy</Link> | <Link href="/terms-of-service" className="hover:text-white">Terms of Service</Link></p>
         </div>
       </div>
     </footer>
