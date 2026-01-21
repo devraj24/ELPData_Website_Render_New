@@ -1,30 +1,32 @@
+import { Link } from "wouter";
+
 export default function Footer() {
   const footerSections = [
     {
       title: "Services",
       links: [
-        "Technology Research",
-        "Market Analysis", 
-        "Competitive Intelligence",
-        "API Integration"
+        { name: "Technology Research", href: "/technology-research" },
+        { name: "Market Analysis", href: "/market-analysis" }, 
+        { name: "Competitive Intelligence", href: "/competitive-intelligence" },
+        { name: "API Integration", href: "/api-integration" }
       ]
     },
     {
       title: "Industries", 
       links: [
-        "Fintech",
-        "Healthcare",
-        "Manufacturing",
-        "Sustainability"
+        { name: "Fintech", href: "/fintech-users-list" },
+        { name: "Healthcare", href: "/healthcare-it-users-list" },
+        { name: "Manufacturing", href: "/manufacturing-users-list" },
+        { name: "Sustainability", href: "/sustainability-users-list" }
       ]
     },
     {
       title: "Resources",
       links: [
-        "Documentation",
-        "API Reference",
-        "Case Studies",
-        "White Papers"
+        { name: "Documentation", href: "/documentation" },
+        { name: "API Reference", href: "/api-reference" },
+        { name: "Case Studies", href: "/case-studies" },
+        { name: "White Papers", href: "/white-papers" }
       ]
     }
   ];
@@ -58,35 +60,35 @@ export default function Footer() {
             </p>
             <div className="flex gap-4">
               <a 
-                href="#" 
+                href="https://twitter.com/elpdata" 
+                target="_blank" 
+                rel="noopener noreferrer"
                 className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center hover:bg-blue-500 transition-colors text-white"
               >
                 <i className="fab fa-twitter"></i>
               </a>
               <a 
-                href="#" 
+                href="https://www.linkedin.com/company/elp-data" 
+                target="_blank" 
+                rel="noopener noreferrer"
                 className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center hover:bg-blue-500 transition-colors text-white"
               >
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a 
-                href="#" 
-                className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center hover:bg-blue-500 transition-colors text-white"
-              >
-                <i className="fab fa-github"></i>
-              </a>
             </div>
           </div>
           
-          {footerSections.map((section, index) => (
+          {footerSections.map((section, index ) => (
             <div key={index}>
               <h4 className="font-semibold mb-4 text-white">{section.title}</h4>
               <ul className="space-y-2 text-gray-300">
                 {section.links.map((link, linkIndex) => (
                   <li key={linkIndex}>
-                    <a href="#" className="hover:text-blue-400 transition-colors">
-                      {link}
-                    </a>
+                    <Link href={link.href}>
+                      <a className="hover:text-blue-400 transition-colors">
+                        {link.name}
+                      </a>
+                    </Link>
                   </li>
                 ))}
               </ul>
@@ -96,21 +98,22 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4 text-white">Quick Links</h4>
             <ul className="space-y-2 text-gray-300 text-sm mb-4">
-              <li><a href="/sap-users-list" className="hover:text-blue-400 transition-colors">SAP Users (368.7K)</a></li>
-              <li><a href="/salesforce-users-list" className="hover:text-blue-400 transition-colors">Salesforce.com (599K)</a></li>
-              <li><a href="/aws-users-list" className="hover:text-blue-400 transition-colors">AWS Cloud (156.2K)</a></li>
-              <li><a href="/oracle-users-list" className="hover:text-blue-400 transition-colors">Oracle Corporation (2.84M)</a></li>
-              <li><a href="/installed-base" className="hover:text-blue-400 transition-colors">All Technology Lists</a></li>
+              <li><Link href="/contact-us"><a className="hover:text-blue-400 transition-colors font-bold text-orange-400">Contact Us Now</a></Link></li>
+              <li><Link href="/sap-users-list"><a className="hover:text-blue-400 transition-colors">SAP Users (368.7K)</a></Link></li>
+              <li><Link href="/salesforce-users-list"><a className="hover:text-blue-400 transition-colors">Salesforce.com (599K)</a></Link></li>
+              <li><Link href="/aws-users-list"><a className="hover:text-blue-400 transition-colors">AWS Cloud (156.2K)</a></Link></li>
+              <li><Link href="/installed-base"><a className="hover:text-blue-400 transition-colors">All Technology Lists</a></Link></li>
             </ul>
             <p className="text-gray-300 text-xs">
-              <i className="fas fa-envelope mr-2"></i><a href="mailto:info@elpdata.com" className="text-blue-400 hover:text-blue-300 underline">info@elpdata.com</a><br />
+              <i className="fas fa-envelope mr-2"></i><a href="mailto:info@elpdata.com" className="text-blue-400 hover:text-blue-300 underline">info@elpdata.com</a>  
+
               <i className="fas fa-phone mr-2"></i><a href="tel:+13072242324" className="text-blue-400 hover:text-blue-300">+1 (307) 224-2324</a>
             </p>
           </div>
         </div>
         
         <div className="border-t border-gray-600 pt-8 text-center text-gray-300">
-          <p>&copy; 2024 ELP Data. All rights reserved. | Privacy Policy | Terms of Service</p>
+          <p>&copy; 2024 ELP Data. All rights reserved. | <Link href="/privacy-policy"><a className="hover:text-white">Privacy Policy</a></Link> | <Link href="/terms-of-service"><a className="hover:text-white">Terms of Service</a></Link></p>
         </div>
       </div>
     </footer>
