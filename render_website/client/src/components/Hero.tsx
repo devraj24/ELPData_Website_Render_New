@@ -60,27 +60,25 @@ export default function Hero() {
               </div>
             </div>
             <div className="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start">
-              <Link href="/contact-us">
-                <a 
-                  className="group bg-gradient-to-r from-orange-500 via-red-500 to-pink-600 text-white px-4 py-2 rounded-lg font-semibold text-sm shadow-lg border border-orange-300/30 backdrop-blur-sm transform hover:scale-105 active:scale-95 transition-all duration-300 hover:shadow-orange-500/40 flex items-center justify-center"
-                >
-                  <span className="mr-2">🚀</span>
-                  <span>Get Started Today</span>
-                  <svg className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="currentColor" viewBox="0 0 20 20">
-                    <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
-                  </svg>
-                </a>
+              <Link 
+                href="/contact-us"
+                className="group bg-gradient-to-r from-orange-500 via-red-500 to-pink-600 text-white px-4 py-2 rounded-lg font-semibold text-sm shadow-lg border border-orange-300/30 backdrop-blur-sm transform hover:scale-105 active:scale-95 transition-all duration-300 hover:shadow-orange-500/40 flex items-center justify-center"
+              >
+                <span className="mr-2">🚀</span>
+                <span>Get Started Today</span>
+                <svg className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
+                </svg>
               </Link>
-              <Link href="/contact-us">
-                <a 
-                  className="group bg-gradient-to-r from-cyan-500 via-blue-500 to-indigo-600 text-white px-4 py-2 rounded-lg font-semibold text-sm shadow-lg border border-cyan-300/30 backdrop-blur-sm transform hover:scale-105 active:scale-95 transition-all duration-300 hover:shadow-cyan-500/40 flex items-center justify-center"
-                >
-                  <span className="mr-2">⚡</span>
-                  <span>API Access</span>
-                  <svg className="w-4 h-4 ml-2 group-hover:rotate-12 transition-transform" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z" />
-                  </svg>
-                </a>
+              <Link 
+                href="/contact-us"
+                className="group bg-gradient-to-r from-cyan-500 via-blue-500 to-indigo-600 text-white px-4 py-2 rounded-lg font-semibold text-sm shadow-lg border border-cyan-300/30 backdrop-blur-sm transform hover:scale-105 active:scale-95 transition-all duration-300 hover:shadow-cyan-500/40 flex items-center justify-center"
+              >
+                <span className="mr-2">⚡</span>
+                <span>API Access</span>
+                <svg className="w-4 h-4 ml-2 group-hover:rotate-12 transition-transform" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z" />
+                </svg>
               </Link>
             </div>
           </div>
